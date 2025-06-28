@@ -1,0 +1,34 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Page-1" id="0MUuelrjfQJblwXUSSFm">
+    <mxGraphModel dx="1303" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wfE8nhp1hG1ssgRYJcow-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="140" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wfE8nhp1hG1ssgRYJcow-6" value="" style="whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="wfE8nhp1hG1ssgRYJcow-11">
+          <mxGeometry width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wfE8nhp1hG1ssgRYJcow-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="wfE8nhp1hG1ssgRYJcow-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" as="sourcePoint" />
+            <mxPoint x="80" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfE8nhp1hG1ssgRYJcow-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="wfE8nhp1hG1ssgRYJcow-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="169.68" as="sourcePoint" />
+            <mxPoint x="169.68" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wfE8nhp1hG1ssgRYJcow-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="wfE8nhp1hG1ssgRYJcow-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" as="sourcePoint" />
+            <mxPoint x="270" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

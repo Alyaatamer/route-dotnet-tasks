@@ -1,0 +1,14 @@
+F:\Route Tasks\C#\Task1\Task1\Task1\bin\Debug\net9.0\Task1.exe
+F:\Route Tasks\C#\Task1\Task1\Task1\bin\Debug\net9.0\Task1.deps.json
+F:\Route Tasks\C#\Task1\Task1\Task1\bin\Debug\net9.0\Task1.runtimeconfig.json
+F:\Route Tasks\C#\Task1\Task1\Task1\bin\Debug\net9.0\Task1.dll
+F:\Route Tasks\C#\Task1\Task1\Task1\bin\Debug\net9.0\Task1.pdb
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfoInputs.cache
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\Task1.AssemblyInfo.cs
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\Task1.csproj.CoreCompileInputs.cache
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\Task1.dll
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\refint\Task1.dll
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\Task1.pdb
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
+F:\Route Tasks\C#\Task1\Task1\Task1\obj\Debug\net9.0\ref\Task1.dll
