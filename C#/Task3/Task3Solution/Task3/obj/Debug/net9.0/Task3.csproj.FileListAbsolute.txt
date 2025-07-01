@@ -1,0 +1,15 @@
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\bin\Debug\net9.0\Task3.exe
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\bin\Debug\net9.0\Task3.deps.json
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\bin\Debug\net9.0\Task3.runtimeconfig.json
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\bin\Debug\net9.0\Task3.dll
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\bin\Debug\net9.0\Task3.pdb
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\Task3.AssemblyInfoInputs.cache
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\Task3.AssemblyInfo.cs
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\Task3.csproj.CoreCompileInputs.cache
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\Task3.sourcelink.json
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\Task3.dll
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\refint\Task3.dll
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\Task3.pdb
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\Task3.genruntimeconfig.cache
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Task3\obj\Debug\net9.0\ref\Task3.dll

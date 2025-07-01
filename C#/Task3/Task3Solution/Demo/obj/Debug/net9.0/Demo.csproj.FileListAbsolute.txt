@@ -1,0 +1,15 @@
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\bin\Debug\net9.0\Demo.exe
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\bin\Debug\net9.0\Demo.deps.json
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\bin\Debug\net9.0\Demo.runtimeconfig.json
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\bin\Debug\net9.0\Demo.dll
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\bin\Debug\net9.0\Demo.pdb
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\Demo.AssemblyInfoInputs.cache
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\Demo.AssemblyInfo.cs
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\Demo.csproj.CoreCompileInputs.cache
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\Demo.sourcelink.json
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\Demo.dll
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\refint\Demo.dll
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\Demo.pdb
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\Demo.genruntimeconfig.cache
+F:\route-dotnet-tasks\C#\Task3\Task3Solution\Demo\obj\Debug\net9.0\ref\Demo.dll
