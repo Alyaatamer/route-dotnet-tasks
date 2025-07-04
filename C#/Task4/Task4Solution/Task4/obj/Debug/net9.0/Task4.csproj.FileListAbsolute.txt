@@ -1,0 +1,15 @@
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\bin\Debug\net9.0\Task4.exe
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\bin\Debug\net9.0\Task4.deps.json
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\bin\Debug\net9.0\Task4.runtimeconfig.json
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\bin\Debug\net9.0\Task4.dll
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\bin\Debug\net9.0\Task4.pdb
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\Task4.AssemblyInfoInputs.cache
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\Task4.AssemblyInfo.cs
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\Task4.csproj.CoreCompileInputs.cache
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\Task4.sourcelink.json
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\Task4.dll
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\refint\Task4.dll
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\Task4.pdb
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\Task4.genruntimeconfig.cache
+F:\route-dotnet-tasks\C#\Task4\Task4Solution\Task4\obj\Debug\net9.0\ref\Task4.dll
