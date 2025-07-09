@@ -1,0 +1,15 @@
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\bin\Debug\net9.0\Quiz.exe
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\bin\Debug\net9.0\Quiz.deps.json
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\bin\Debug\net9.0\Quiz.runtimeconfig.json
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\bin\Debug\net9.0\Quiz.dll
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\bin\Debug\net9.0\Quiz.pdb
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfoInputs.cache
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\Quiz.AssemblyInfo.cs
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\Quiz.csproj.CoreCompileInputs.cache
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\Quiz.sourcelink.json
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\Quiz.dll
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\refint\Quiz.dll
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\Quiz.pdb
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\Quiz.genruntimeconfig.cache
+F:\route-dotnet-tasks\C#\Quiz\Quiz\Quiz\obj\Debug\net9.0\ref\Quiz.dll
