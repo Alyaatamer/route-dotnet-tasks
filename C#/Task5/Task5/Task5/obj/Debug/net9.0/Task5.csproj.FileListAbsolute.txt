@@ -1,0 +1,15 @@
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\bin\Debug\net9.0\Task5.exe
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\bin\Debug\net9.0\Task5.deps.json
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\bin\Debug\net9.0\Task5.runtimeconfig.json
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\bin\Debug\net9.0\Task5.dll
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\bin\Debug\net9.0\Task5.pdb
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\Task5.AssemblyInfoInputs.cache
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\Task5.AssemblyInfo.cs
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\Task5.csproj.CoreCompileInputs.cache
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\Task5.sourcelink.json
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\Task5.dll
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\refint\Task5.dll
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\Task5.pdb
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\Task5.genruntimeconfig.cache
+F:\route-dotnet-tasks\C#\Task5\Task5\Task5\obj\Debug\net9.0\ref\Task5.dll
