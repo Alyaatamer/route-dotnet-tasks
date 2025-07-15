@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5\\Task5.csproj": {}
+    "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5.csproj": {}
   },
   "projects": {
-    "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5\\Task5.csproj": {
+    "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5\\Task5.csproj",
+        "projectUniqueName": "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5.csproj",
         "projectName": "Task5",
-        "projectPath": "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5\\Task5.csproj",
+        "projectPath": "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5.csproj",
         "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-        "outputPath": "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\Task5\\obj\\",
+        "outputPath": "F:\\route-dotnet-tasks\\C#\\Task5\\Task5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
