@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\route-dotnet-tasks\\OOP\\Task1\\Demo\\Demo.csproj": {}
+    "F:\\route-dotnet-tasks\\OOP\\Task1\\Task1\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "F:\\route-dotnet-tasks\\OOP\\Task1\\Demo\\Demo.csproj": {
+    "F:\\route-dotnet-tasks\\OOP\\Task1\\Task1\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\route-dotnet-tasks\\OOP\\Task1\\Demo\\Demo.csproj",
+        "projectUniqueName": "F:\\route-dotnet-tasks\\OOP\\Task1\\Task1\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "F:\\route-dotnet-tasks\\OOP\\Task1\\Demo\\Demo.csproj",
+        "projectPath": "F:\\route-dotnet-tasks\\OOP\\Task1\\Task1\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
-        "outputPath": "F:\\route-dotnet-tasks\\OOP\\Task1\\Demo\\obj\\",
+        "outputPath": "F:\\route-dotnet-tasks\\OOP\\Task1\\Task1\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
