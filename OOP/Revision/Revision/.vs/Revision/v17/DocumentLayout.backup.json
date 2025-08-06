@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|f:\\route-dotnet-tasks\\oop\\revision\\revision\\revision\\inheritance\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|solutionrelative:revision\\inheritance\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|f:\\route-dotnet-tasks\\oop\\revision\\revision\\revision\\inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|solutionrelative:revision\\inheritance\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|f:\\route-dotnet-tasks\\oop\\revision\\revision\\revision\\inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|solutionrelative:revision\\inheritance\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|f:\\route-dotnet-tasks\\oop\\revision\\revision\\revision\\inheritance\\garden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|solutionrelative:revision\\inheritance\\garden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|f:\\route-dotnet-tasks\\oop\\revision\\revision\\revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C802A6-2EA9-401D-A156-69D48A4D060B}|Revision\\Revision.csproj|solutionrelative:revision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Garden.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Inheritance\\Garden.cs",
+              "RelativeDocumentMoniker": "Revision\\Inheritance\\Garden.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Inheritance\\Garden.cs",
+              "RelativeToolTip": "Revision\\Inheritance\\Garden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:45:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Inheritance\\Elephant.cs",
+              "RelativeDocumentMoniker": "Revision\\Inheritance\\Elephant.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Inheritance\\Elephant.cs",
+              "RelativeToolTip": "Revision\\Inheritance\\Elephant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:36:24.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Inheritance\\Dog.cs",
+              "RelativeDocumentMoniker": "Revision\\Inheritance\\Dog.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Inheritance\\Dog.cs",
+              "RelativeToolTip": "Revision\\Inheritance\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:36:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Inheritance\\Animal.cs",
+              "RelativeDocumentMoniker": "Revision\\Inheritance\\Animal.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Inheritance\\Animal.cs",
+              "RelativeToolTip": "Revision\\Inheritance\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T18:35:07.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Program.cs",
+              "RelativeDocumentMoniker": "Revision\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\OOP\\Revision\\Revision\\Revision\\Program.cs",
+              "RelativeToolTip": "Revision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T08:26:13.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

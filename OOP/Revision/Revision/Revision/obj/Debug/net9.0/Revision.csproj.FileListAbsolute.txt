@@ -1,0 +1,15 @@
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\bin\Debug\net9.0\Revision.exe
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\bin\Debug\net9.0\Revision.deps.json
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\bin\Debug\net9.0\Revision.runtimeconfig.json
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\bin\Debug\net9.0\Revision.dll
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\bin\Debug\net9.0\Revision.pdb
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\Revision.GeneratedMSBuildEditorConfig.editorconfig
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\Revision.AssemblyInfoInputs.cache
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\Revision.AssemblyInfo.cs
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\Revision.csproj.CoreCompileInputs.cache
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\Revision.sourcelink.json
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\Revision.dll
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\refint\Revision.dll
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\Revision.pdb
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\Revision.genruntimeconfig.cache
+F:\route-dotnet-tasks\OOP\Revision\Revision\Revision\obj\Debug\net9.0\ref\Revision.dll

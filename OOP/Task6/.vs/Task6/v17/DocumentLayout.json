@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\OOP\\Task6\\Task6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFCDF0-F524-4DF8-B1E1-50C0CE431255}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\oop\\task6\\task6\\demo\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFCDF0-F524-4DF8-B1E1-50C0CE431255}|Demo\\Demo.csproj|solutionrelative:demo\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DFCDF0-F524-4DF8-B1E1-50C0CE431255}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\oop\\task6\\task6\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DFCDF0-F524-4DF8-B1E1-50C0CE431255}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\OOP\\Task6\\Task6\\Demo\\Utility.cs",
+              "RelativeDocumentMoniker": "Demo\\Utility.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\OOP\\Task6\\Task6\\Demo\\Utility.cs",
+              "RelativeToolTip": "Demo\\Utility.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:22:49.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\OOP\\Task6\\Task6\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\OOP\\Task6\\Task6\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:27:13.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
