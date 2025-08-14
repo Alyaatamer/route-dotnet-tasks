@@ -30,11 +30,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 293,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -46,8 +50,7 @@
               "RelativeToolTip": "Revision\\Inheritance\\Garden.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T18:45:14.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T18:45:14.011Z"
             },
             {
               "$type": "Document",
@@ -72,8 +75,7 @@
               "RelativeToolTip": "Revision\\Inheritance\\Dog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T18:36:14.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T18:36:14.319Z"
             },
             {
               "$type": "Document",
@@ -85,8 +87,7 @@
               "RelativeToolTip": "Revision\\Inheritance\\Animal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T18:35:07.534Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T18:35:07.534Z"
             },
             {
               "$type": "Document",
@@ -98,8 +99,7 @@
               "RelativeToolTip": "Revision\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T08:26:13.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T08:26:13.199Z"
             }
           ]
         }

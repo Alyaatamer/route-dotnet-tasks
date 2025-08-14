@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task3\\task3\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task3\\task3\\demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|solutionrelative:demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task3\\task3\\demo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|solutionrelative:demo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Department.cs",
+              "RelativeDocumentMoniker": "Demo\\Department.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Department.cs",
+              "RelativeToolTip": "Demo\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:39:43.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo\\Employee.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Employee.cs",
+              "RelativeToolTip": "Demo\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:39:29.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T17:38:56.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
