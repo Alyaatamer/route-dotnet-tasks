@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBC2AD1A-2AD7-4CBB-8B53-9612258F3748}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task4\\task4\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC2AD1A-2AD7-4CBB-8B53-9612258F3748}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|f:\\route-dotnet-tasks\\c# advanced\\task4\\task4\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBC2AD1A-2AD7-4CBB-8B53-9612258F3748}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task4\\task4\\demo\\compareclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC2AD1A-2AD7-4CBB-8B53-9612258F3748}|Demo\\Demo.csproj|solutionrelative:demo\\compareclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|f:\\route-dotnet-tasks\\c# advanced\\task4\\task4\\task4\\listmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|solutionrelative:task4\\listmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBC2AD1A-2AD7-4CBB-8B53-9612258F3748}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task4\\task4\\demo\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC2AD1A-2AD7-4CBB-8B53-9612258F3748}|Demo\\Demo.csproj|solutionrelative:demo\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|f:\\route-dotnet-tasks\\c# advanced\\task4\\task4\\task4\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|solutionrelative:task4\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|f:\\route-dotnet-tasks\\c# advanced\\task4\\task4\\task4\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|solutionrelative:task4\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|f:\\route-dotnet-tasks\\c# advanced\\task4\\task4\\task4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C9E0C8-5462-4102-B87D-1F6AF55E5B83}|Task4\\Task4.csproj|solutionrelative:task4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 293,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,40 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CompareClass.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Demo\\CompareClass.cs",
-              "RelativeDocumentMoniker": "Demo\\CompareClass.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Demo\\CompareClass.cs",
-              "RelativeToolTip": "Demo\\CompareClass.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABXAAAAAAAAAA==",
+              "Title": "Listmethods.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\Listmethods.cs",
+              "RelativeDocumentMoniker": "Task4\\Listmethods.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\Listmethods.cs*",
+              "RelativeToolTip": "Task4\\Listmethods.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:48:43.268Z",
+              "WhenOpened": "2025-08-18T20:09:32.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SortingAlgorithms.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Demo\\SortingAlgorithms.cs",
-              "RelativeDocumentMoniker": "Demo\\SortingAlgorithms.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Demo\\SortingAlgorithms.cs",
-              "RelativeToolTip": "Demo\\SortingAlgorithms.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "Task4\\LibraryEngine.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\LibraryEngine.cs",
+              "RelativeToolTip": "Task4\\LibraryEngine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:43:24.286Z",
+              "WhenOpened": "2025-08-18T19:47:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "Task4\\BookFunctions.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\BookFunctions.cs",
+              "RelativeToolTip": "Task4\\BookFunctions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:45:18.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\Book.cs",
+              "RelativeDocumentMoniker": "Task4\\Book.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\Book.cs",
+              "RelativeToolTip": "Task4\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:42:52.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Demo\\Program.cs",
-              "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA6wAsAAAAHAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task4\\Task4\\Task4\\Program.cs*",
+              "RelativeToolTip": "Task4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:42:52.21Z",
+              "WhenOpened": "2025-08-18T18:56:25.128Z",
               "EditorCaption": ""
             }
           ]
