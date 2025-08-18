@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task3\\task3\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task3\\task3\\demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|solutionrelative:demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\c# advanced\\task3\\task3\\demo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ACF13CB9-8CC5-496F-8093-17F1535295CE}|Demo\\Demo.csproj|solutionrelative:demo\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F750BCD-E79B-4567-878F-A24749587830}|Task3\\Task3.csproj|f:\\route-dotnet-tasks\\c# advanced\\task3\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F750BCD-E79B-4567-878F-A24749587830}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 293,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Department.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Department.cs",
-              "RelativeDocumentMoniker": "Demo\\Department.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Department.cs",
-              "RelativeToolTip": "Demo\\Department.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:39:43.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Employee.cs",
-              "RelativeDocumentMoniker": "Demo\\Employee.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Employee.cs",
-              "RelativeToolTip": "Demo\\Employee.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:39:29.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Demo\\Program.cs",
-              "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCkAAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\C# Advanced\\Task3\\Task3\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwNQAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T17:38:56.201Z",
+              "WhenOpened": "2025-08-15T18:38:50.949Z",
               "EditorCaption": ""
             }
           ]
