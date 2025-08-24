@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\LinQ\\Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7203F0C-3C6E-4407-BACD-EA9C7206B762}|Demo\\Demo.csproj|f:\\route-dotnet-tasks\\linq\\task1\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7203F0C-3C6E-4407-BACD-EA9C7206B762}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E7912644-8CB8-4C56-8335-9E8AEB748028}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\linq\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7912644-8CB8-4C56-8335-9E8AEB748028}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7912644-8CB8-4C56-8335-9E8AEB748028}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\linq\\task1\\task1\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7912644-8CB8-4C56-8335-9E8AEB748028}|Task1\\Task1.csproj|solutionrelative:task1\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 293,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\LinQ\\Task1\\Demo\\Program.cs",
-              "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\LinQ\\Task1\\Demo\\Program.cs",
-              "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ListGenerators.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\LinQ\\Task1\\Task1\\ListGenerators.cs",
+              "RelativeDocumentMoniker": "Task1\\ListGenerators.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\LinQ\\Task1\\Task1\\ListGenerators.cs",
+              "RelativeToolTip": "Task1\\ListGenerators.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAYwP0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T15:57:11.44Z",
+              "WhenOpened": "2025-08-22T21:14:32.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\LinQ\\Task1\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\LinQ\\Task1\\Task1\\Program.cs",
               "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T15:56:32.468Z",
               "EditorCaption": ""

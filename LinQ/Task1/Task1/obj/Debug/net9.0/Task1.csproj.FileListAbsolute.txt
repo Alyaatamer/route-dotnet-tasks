@@ -13,3 +13,4 @@ F:\route-dotnet-tasks\LinQ\Task1\Task1\obj\Debug\net9.0\refint\Task1.dll
 F:\route-dotnet-tasks\LinQ\Task1\Task1\obj\Debug\net9.0\Task1.pdb
 F:\route-dotnet-tasks\LinQ\Task1\Task1\obj\Debug\net9.0\Task1.genruntimeconfig.cache
 F:\route-dotnet-tasks\LinQ\Task1\Task1\obj\Debug\net9.0\ref\Task1.dll
+F:\route-dotnet-tasks\LinQ\Task1\Task1\bin\Debug\net9.0\Customers.xml
