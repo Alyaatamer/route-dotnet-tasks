@@ -1,0 +1,15 @@
+F:\route-dotnet-tasks\LinQ\Task2\Task2\bin\Debug\net9.0\Task2.exe
+F:\route-dotnet-tasks\LinQ\Task2\Task2\bin\Debug\net9.0\Task2.deps.json
+F:\route-dotnet-tasks\LinQ\Task2\Task2\bin\Debug\net9.0\Task2.runtimeconfig.json
+F:\route-dotnet-tasks\LinQ\Task2\Task2\bin\Debug\net9.0\Task2.dll
+F:\route-dotnet-tasks\LinQ\Task2\Task2\bin\Debug\net9.0\Task2.pdb
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\Task2.AssemblyInfoInputs.cache
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\Task2.AssemblyInfo.cs
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\Task2.csproj.CoreCompileInputs.cache
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\Task2.sourcelink.json
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\Task2.dll
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\refint\Task2.dll
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\Task2.pdb
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\Task2.genruntimeconfig.cache
+F:\route-dotnet-tasks\LinQ\Task2\Task2\obj\Debug\net9.0\ref\Task2.dll

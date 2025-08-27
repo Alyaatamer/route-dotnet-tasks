@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\LinQ\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{122216CC-B112-44EF-9287-724A21B19FC6}|Task2\\Task2.csproj|f:\\route-dotnet-tasks\\linq\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122216CC-B112-44EF-9287-724A21B19FC6}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122216CC-B112-44EF-9287-724A21B19FC6}|Task2\\Task2.csproj|f:\\route-dotnet-tasks\\linq\\task2\\task2\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122216CC-B112-44EF-9287-724A21B19FC6}|Task2\\Task2.csproj|solutionrelative:task2\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerators.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\LinQ\\Task2\\Task2\\ListGenerators.cs",
+              "RelativeDocumentMoniker": "Task2\\ListGenerators.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\LinQ\\Task2\\Task2\\ListGenerators.cs",
+              "RelativeToolTip": "Task2\\ListGenerators.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAcwPsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:22:45.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\LinQ\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\LinQ\\Task2\\Task2\\Program.cs*",
+              "RelativeToolTip": "Task2\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:26:44.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
