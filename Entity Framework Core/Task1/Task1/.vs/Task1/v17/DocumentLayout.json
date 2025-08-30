@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Migrations\\20250830122329_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task1\\Migrations\\20250830122329_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\migrations\\iticontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\migrations\\iticontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\stud_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\entity framework core\\task1\\task1\\task1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task1.csproj|solutionrelative:task1\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITIContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Migrations\\ITIContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Task1\\Migrations\\ITIContextModelSnapshot.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Migrations\\ITIContextModelSnapshot.cs",
+              "RelativeToolTip": "Task1\\Migrations\\ITIContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:23:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250830122329_InitialCreate.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Migrations\\20250830122329_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Task1\\Migrations\\20250830122329_InitialCreate.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Migrations\\20250830122329_InitialCreate.cs",
+              "RelativeToolTip": "Task1\\Migrations\\20250830122329_InitialCreate.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAQwGYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:23:30.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITIContext.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\ITIContext.cs",
+              "RelativeDocumentMoniker": "Task1\\ITIContext.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\ITIContext.cs",
+              "RelativeToolTip": "Task1\\ITIContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:35:05.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "Task1\\Course_Inst.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Course_Inst.cs",
+              "RelativeToolTip": "Task1\\Course_Inst.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:32:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stud_Course.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Stud_Course.cs",
+              "RelativeDocumentMoniker": "Task1\\Stud_Course.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Stud_Course.cs",
+              "RelativeToolTip": "Task1\\Stud_Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:31:30.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Topic.cs",
+              "RelativeDocumentMoniker": "Task1\\Topic.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Topic.cs",
+              "RelativeToolTip": "Task1\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:30:47.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Instructor.cs",
+              "RelativeDocumentMoniker": "Task1\\Instructor.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Instructor.cs",
+              "RelativeToolTip": "Task1\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:27:35.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Department.cs",
+              "RelativeDocumentMoniker": "Task1\\Department.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Department.cs",
+              "RelativeToolTip": "Task1\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:25:38.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Course.cs",
+              "RelativeDocumentMoniker": "Task1\\Course.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Course.cs",
+              "RelativeToolTip": "Task1\\Course.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:23:31.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Student.cs",
+              "RelativeDocumentMoniker": "Task1\\Student.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Student.cs",
+              "RelativeToolTip": "Task1\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:19:14.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task1\\Task1\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T22:19:01.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
