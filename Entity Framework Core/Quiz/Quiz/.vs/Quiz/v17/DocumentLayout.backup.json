@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|f:\\route-dotnet-tasks\\entity framework core\\quiz\\quiz\\quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|solutionrelative:quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|f:\\route-dotnet-tasks\\entity framework core\\quiz\\quiz\\quiz\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|solutionrelative:quiz\\filmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|f:\\route-dotnet-tasks\\entity framework core\\quiz\\quiz\\quiz\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|solutionrelative:quiz\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|f:\\route-dotnet-tasks\\entity framework core\\quiz\\quiz\\quiz\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|solutionrelative:quiz\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|f:\\route-dotnet-tasks\\entity framework core\\quiz\\quiz\\quiz\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|solutionrelative:quiz\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|f:\\route-dotnet-tasks\\entity framework core\\quiz\\quiz\\quiz\\tapedvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|solutionrelative:quiz\\tapedvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|f:\\route-dotnet-tasks\\entity framework core\\quiz\\quiz\\quiz\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7AEC0CA-3175-4F99-A798-4BE1AC637129}|Quiz\\Quiz.csproj|solutionrelative:quiz\\rent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Migrations\\20250906172011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Quiz\\Migrations\\20250906172011_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250906172011_initialcreate.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Migrations\\20250906172011_initialcreate.cs",
+              "RelativeDocumentMoniker": "Quiz\\Migrations\\20250906172011_initialcreate.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Migrations\\20250906172011_initialcreate.cs",
+              "RelativeToolTip": "Quiz\\Migrations\\20250906172011_initialcreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:20:11.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmContext.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\FilmContext.cs",
+              "RelativeDocumentMoniker": "Quiz\\FilmContext.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\FilmContext.cs",
+              "RelativeToolTip": "Quiz\\FilmContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:36:25.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rent.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Rent.cs",
+              "RelativeDocumentMoniker": "Quiz\\Rent.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Rent.cs",
+              "RelativeToolTip": "Quiz\\Rent.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:32:45.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TapeDVD.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\TapeDVD.cs",
+              "RelativeDocumentMoniker": "Quiz\\TapeDVD.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\TapeDVD.cs",
+              "RelativeToolTip": "Quiz\\TapeDVD.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:30:30.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Supplier.cs",
+              "RelativeDocumentMoniker": "Quiz\\Supplier.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Supplier.cs",
+              "RelativeToolTip": "Quiz\\Supplier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:28:43.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Movie.cs",
+              "RelativeDocumentMoniker": "Quiz\\Movie.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Movie.cs",
+              "RelativeToolTip": "Quiz\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:27:53.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Member.cs",
+              "RelativeDocumentMoniker": "Quiz\\Member.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Member.cs",
+              "RelativeToolTip": "Quiz\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:26:54.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Quiz\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Quiz\\Quiz\\Quiz\\Program.cs*",
+              "RelativeToolTip": "Quiz\\Program.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:24:43.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
