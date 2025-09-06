@@ -1,0 +1,81 @@
+[
+  {
+    "EmpName": "Sama",
+    "Age": 29,
+    "Email": "Sama@gmail.com",
+    "Salary": 8000,
+    "PhoneNumber" : "0123456789",
+    "EmpAddress": {
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Street": "El Tahrir"
+    },
+    "DepartmentId": 10
+  },
+  {
+    "EmpName": "Nadia",
+    "Age": 27,
+    "Email": "nadia.ali@gmail.com",
+    "Salary": 5000,
+    "PhoneNumber" : "0123456789",
+  "EmpAddress": {
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Street": "El Tahrir"
+    },
+    "DepartmentId": 20
+  },
+  {
+    "EmpName": "Soha",
+    "Age": 20,
+    "Email": "soha.mohamed@gmail.com",
+    "Salary": 3000,
+    "PhoneNumber" : "0123456789",
+  "EmpAddress": {
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Street": "El Tahrir"
+    },
+    "DepartmentId": 10
+  },
+  {
+    "EmpName": "Mazen",
+    "Age": 25,
+    "Email": "mazen@gmail.com",
+    "Salary": 8000,
+    "PhoneNumber" : "0123456789",
+   "EmpAddress": {
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Street": "El Tahrir"
+    },
+    "DepartmentId": 20
+  },
+  {
+    "EmpName": "Sameh",
+    "Age": 30,
+    "Email": "sameh@gmail.com",
+    "Salary": 9000,
+    "PhoneNumber" : "0123456789",
+  "EmpAddress": {
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Street": "El Tahrir"
+    },
+    "DepartmentId": 10
+  },
+  {
+    "EmpName": "Pola",
+    "Age": 30,
+    "Email": "pola@gmail.com",
+    "Salary": 5000,
+    "PhoneNumber" : "0123456789",
+    "EmpAddress": {
+      "City": "Cairo",
+      "Country": "Egypt",
+      "Street": "El Tahrir"
+    },
+    "DepartmentId": 10
+
+  }
+]
