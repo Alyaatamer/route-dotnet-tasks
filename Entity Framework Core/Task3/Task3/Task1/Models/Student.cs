@@ -21,6 +21,6 @@ namespace Task3
         public int Dept_ID { get; set; }
         public virtual Department Department { get; set; } = null!;
 
-        public virtual ICollection<Stud_Course> Stud_Courses { get; set; } = new HashSet<Stud_Course>();
+        public ICollection<Stud_Course> Stud_Courses { get; set; } ;
     }
 }

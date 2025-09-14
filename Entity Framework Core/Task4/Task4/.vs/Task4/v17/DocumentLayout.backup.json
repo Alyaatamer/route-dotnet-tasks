@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|f:\\route-dotnet-tasks\\entity framework core\\task4\\task4\\inheritance_mapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|solutionrelative:inheritance_mapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|f:\\route-dotnet-tasks\\entity framework core\\task4\\task4\\inheritance_mapping\\context\\textcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|solutionrelative:inheritance_mapping\\context\\textcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Migrations\\20250914194324_InitialInheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inheritance_Mapping\\Migrations\\20250914194324_InitialInheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|f:\\route-dotnet-tasks\\entity framework core\\task4\\task4\\inheritance_mapping\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|solutionrelative:inheritance_mapping\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|f:\\route-dotnet-tasks\\entity framework core\\task4\\task4\\inheritance_mapping\\models\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|solutionrelative:inheritance_mapping\\models\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|f:\\route-dotnet-tasks\\entity framework core\\task4\\task4\\inheritance_mapping\\models\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FC13067-D67B-40FD-A3A6-0BC82F782127}|Inheritance_Mapping\\Inheritance_Mapping.csproj|solutionrelative:inheritance_mapping\\models\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 293,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250914194324_InitialInheritance.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Migrations\\20250914194324_InitialInheritance.cs",
+              "RelativeDocumentMoniker": "Inheritance_Mapping\\Migrations\\20250914194324_InitialInheritance.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Migrations\\20250914194324_InitialInheritance.cs",
+              "RelativeToolTip": "Inheritance_Mapping\\Migrations\\20250914194324_InitialInheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:43:24.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextContext.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Context\\TextContext.cs",
+              "RelativeDocumentMoniker": "Inheritance_Mapping\\Context\\TextContext.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Context\\TextContext.cs",
+              "RelativeToolTip": "Inheritance_Mapping\\Context\\TextContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:31:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Models\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Inheritance_Mapping\\Models\\PartTimeEmployee.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Models\\PartTimeEmployee.cs",
+              "RelativeToolTip": "Inheritance_Mapping\\Models\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:30:13.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Models\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Inheritance_Mapping\\Models\\FullTimeEmployee.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Models\\FullTimeEmployee.cs",
+              "RelativeToolTip": "Inheritance_Mapping\\Models\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:29:50.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Inheritance_Mapping\\Models\\Employee.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Models\\Employee.cs",
+              "RelativeToolTip": "Inheritance_Mapping\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:28:04.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance_Mapping\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task4\\Task4\\Inheritance_Mapping\\Program.cs*",
+              "RelativeToolTip": "Inheritance_Mapping\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:27:49.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

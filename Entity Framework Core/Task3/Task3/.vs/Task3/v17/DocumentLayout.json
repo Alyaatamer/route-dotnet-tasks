@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|f:\\route-dotnet-tasks\\entity framework core\\task3\\task3\\task1\\contexts\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|solutionrelative:task1\\contexts\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|f:\\route-dotnet-tasks\\entity framework core\\task3\\task3\\task1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|solutionrelative:task1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|f:\\route-dotnet-tasks\\entity framework core\\task3\\task3\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|f:\\route-dotnet-tasks\\entity framework core\\task3\\task3\\task1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|solutionrelative:task1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|f:\\route-dotnet-tasks\\entity framework core\\task3\\task3\\task1\\contexts\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|solutionrelative:task1\\contexts\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|f:\\route-dotnet-tasks\\entity framework core\\task3\\task3\\task1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|solutionrelative:task1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C82EECBE-695B-4DBF-B10F-11C259E0297C}|Task1\\Task3.csproj|f:\\route-dotnet-tasks\\entity framework core\\task3\\task3\\task1\\configurations\\topicconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 293,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,12 +102,11 @@
               "RelativeToolTip": "Task1\\Configurations\\TopicConfigurations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T20:21:35.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T20:21:35.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CourseConfigurations.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Configurations\\CourseConfigurations.cs",
               "RelativeDocumentMoniker": "Task1\\Configurations\\CourseConfigurations.cs",
@@ -115,12 +114,11 @@
               "RelativeToolTip": "Task1\\Configurations\\CourseConfigurations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T20:20:01.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T20:20:01.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InstructorConfigurations.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Configurations\\InstructorConfigurations.cs",
               "RelativeDocumentMoniker": "Task1\\Configurations\\InstructorConfigurations.cs",
@@ -128,12 +126,11 @@
               "RelativeToolTip": "Task1\\Configurations\\InstructorConfigurations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T20:19:04.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T20:19:04.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DepartmentConfigurations.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Configurations\\DepartmentConfigurations.cs",
               "RelativeDocumentMoniker": "Task1\\Configurations\\DepartmentConfigurations.cs",
@@ -141,12 +138,11 @@
               "RelativeToolTip": "Task1\\Configurations\\DepartmentConfigurations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T20:18:21.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T20:18:21.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "StudentConfigurations.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Configurations\\StudentConfigurations.cs",
               "RelativeDocumentMoniker": "Task1\\Configurations\\StudentConfigurations.cs",
@@ -154,18 +150,17 @@
               "RelativeToolTip": "Task1\\Configurations\\StudentConfigurations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T20:17:01.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T20:17:01.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "ITIContext.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Contexts\\ITIContext.cs",
               "RelativeDocumentMoniker": "Task1\\Contexts\\ITIContext.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Contexts\\ITIContext.cs",
               "RelativeToolTip": "Task1\\Contexts\\ITIContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-29T22:35:05.776Z",
               "EditorCaption": ""
@@ -220,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Department.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Task1\\Models\\Department.cs",
@@ -228,8 +223,7 @@
               "RelativeToolTip": "Task1\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T22:25:38.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T22:25:38.17Z"
             },
             {
               "$type": "Document",
@@ -245,29 +239,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Task1\\Models\\Student.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Models\\Student.cs",
               "RelativeToolTip": "Task1\\Models\\Student.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBUAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T22:19:14.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T22:19:14.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\Entity Framework Core\\Task3\\Task3\\Task1\\Program.cs",
               "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAAAMQAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAAMoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T22:19:01.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-29T22:19:01.367Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
