@@ -1,0 +1,6 @@
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\Task1\Task1\wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\Task1\Task1\wwwroot\lib\bootstrap\js\bootstrap.min.js
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\Task1\Task1\wwwroot\lib\bootstrap\css\bootstrap.min.css
+wwwroot\lib\bootstrap\css\bootstrap.min.css
+wwwroot\lib\bootstrap\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\js\bootstrap.min.js

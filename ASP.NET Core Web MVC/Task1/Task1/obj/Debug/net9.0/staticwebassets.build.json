@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "JC4eb1Mkq4A1lILE85T77zhdXqCvgCux6NZQQ4R+1zk=",
+  "Source": "Task1",
+  "BasePath": "_content/Task1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Task1\\wwwroot",
+      "Source": "Task1",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\",
+      "BasePath": "_content/Task1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\9zonhb6k9h-wvublzrdv8.gz",
+      "SourceId": "Task1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Task1",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min#[.{fingerprint=wvublzrdv8}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "otkv1ea6nf",
+      "Integrity": "1MurB9UakdjLbZyPUachvBA8CnBQ7y7Qua2XaxYr7iA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\dpvvdu9blx-5cl6jzyzps.gz",
+      "SourceId": "Task1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Task1",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min#[.{fingerprint=5cl6jzyzps}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2h3kjudxvo",
+      "Integrity": "loltTS5O78N+2VY/jAgm+afSVcqE0EbF3kF8MiyfGLQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\j0jvtodndo-026e6kk7rh.gz",
+      "SourceId": "Task1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Task1",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min#[.{fingerprint=026e6kk7rh}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3lgvqbce5r",
+      "Integrity": "SfTMTJA7Vi26Ut8szPdRjPD8ErWy43a9KUBFwndFWao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "Task1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\",
+      "BasePath": "_content/Task1",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "026e6kk7rh",
+      "Integrity": "2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Task1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\",
+      "BasePath": "_content/Task1",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wvublzrdv8",
+      "Integrity": "5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "Task1",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\",
+      "BasePath": "_content/Task1",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5cl6jzyzps",
+      "Integrity": "ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.026e6kk7rh.css",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\j0jvtodndo-026e6kk7rh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032133676"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31119"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SfTMTJA7Vi26Ut8szPdRjPD8ErWy43a9KUBFwndFWao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "026e6kk7rh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.026e6kk7rh.css",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "026e6kk7rh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.026e6kk7rh.css.gz",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\j0jvtodndo-026e6kk7rh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SfTMTJA7Vi26Ut8szPdRjPD8ErWy43a9KUBFwndFWao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "026e6kk7rh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/css/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SfTMTJA7Vi26Ut8szPdRjPD8ErWy43a9KUBFwndFWao="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\j0jvtodndo-026e6kk7rh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032133676"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31119"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SfTMTJA7Vi26Ut8szPdRjPD8ErWy43a9KUBFwndFWao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2FMn2Zx6PuH5tdBQDRNwrOo60ts5wWPC9R8jK67b3t4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/css/bootstrap.min.css.gz",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\j0jvtodndo-026e6kk7rh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31119"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SfTMTJA7Vi26Ut8szPdRjPD8ErWy43a9KUBFwndFWao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SfTMTJA7Vi26Ut8szPdRjPD8ErWy43a9KUBFwndFWao="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\9zonhb6k9h-wvublzrdv8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041990342"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23814"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1MurB9UakdjLbZyPUachvBA8CnBQ7y7Qua2XaxYr7iA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.js.gz",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\9zonhb6k9h-wvublzrdv8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1MurB9UakdjLbZyPUachvBA8CnBQ7y7Qua2XaxYr7iA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MurB9UakdjLbZyPUachvBA8CnBQ7y7Qua2XaxYr7iA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.wvublzrdv8.js",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\9zonhb6k9h-wvublzrdv8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041990342"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23814"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1MurB9UakdjLbZyPUachvBA8CnBQ7y7Qua2XaxYr7iA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvublzrdv8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.wvublzrdv8.js",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvublzrdv8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5P1JGBOIxI7FBAvT/mb1fCnI5n/NhQKzNUuW7Hq0fMc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.bundle.min.wvublzrdv8.js.gz",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\9zonhb6k9h-wvublzrdv8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23814"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1MurB9UakdjLbZyPUachvBA8CnBQ7y7Qua2XaxYr7iA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wvublzrdv8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.bundle.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1MurB9UakdjLbZyPUachvBA8CnBQ7y7Qua2XaxYr7iA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.5cl6jzyzps.js",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\dpvvdu9blx-5cl6jzyzps.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060266377"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16592"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loltTS5O78N+2VY/jAgm+afSVcqE0EbF3kF8MiyfGLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cl6jzyzps"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.5cl6jzyzps.js",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cl6jzyzps"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.5cl6jzyzps.js.gz",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\dpvvdu9blx-5cl6jzyzps.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loltTS5O78N+2VY/jAgm+afSVcqE0EbF3kF8MiyfGLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5cl6jzyzps"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/js/bootstrap.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-loltTS5O78N+2VY/jAgm+afSVcqE0EbF3kF8MiyfGLQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\dpvvdu9blx-5cl6jzyzps.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000060266377"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16592"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loltTS5O78N+2VY/jAgm+afSVcqE0EbF3kF8MiyfGLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ew8UiV1pJH/YjpOEBInP1HxVvT/SfrCmwSoUzF9JIgc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/js/bootstrap.min.js.gz",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\obj\\Debug\\net9.0\\compressed\\dpvvdu9blx-5cl6jzyzps.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16592"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"loltTS5O78N+2VY/jAgm+afSVcqE0EbF3kF8MiyfGLQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 20 Sep 2025 12:22:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-loltTS5O78N+2VY/jAgm+afSVcqE0EbF3kF8MiyfGLQ="
+        }
+      ]
+    }
+  ]
+}
