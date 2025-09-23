@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\views\\shared\\authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\shared\\authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,24 +39,8 @@
       "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\task1\\task1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{929EA833-AEB4-4F02-8F13-6A8DCCDBD53E}|Task1\\Task1.csproj|solutionrelative:task1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,90 +63,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Task1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T11:10:18.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthLayout.cshtml",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Shared\\AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\Shared\\AuthLayout.cshtml",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Shared\\AuthLayout.cshtml",
+              "RelativeToolTip": "Task1\\Views\\Shared\\AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T11:01:53.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T10:56:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Task1\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T10:44:48.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Task1\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T10:44:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Task1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T10:45:21.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Task1\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Task1\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T10:45:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "About.cshtml",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Task1\\Views\\Home\\About.cshtml",
               "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Task1\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-20T13:21:29.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Task1\\Controllers\\AccountController.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Task1\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T12:50:42.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Task1\\Views\\Home\\Index.cshtml",
               "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Task1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-20T12:34:58.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Task1\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Task1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T12:27:26.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Task1\\Models\\Movie.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Models\\Movie.cs",
-              "RelativeToolTip": "Task1\\Models\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T11:23:49.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "Task1\\Controllers\\MoviesController.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "Task1\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwC4AAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T18:02:16.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\Task1\\Task1\\Program.cs",
               "RelativeToolTip": "Task1\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAIwCMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwCMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T15:30:35.887Z",
               "EditorCaption": ""

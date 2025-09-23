@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    @* <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" /> *@
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="mt-5">
+        <center>
+            <a class="btn btn-success" href="/Home/Index">Home</a>
+            <a class="btn btn-primary" href="/Home/About">About</a>
+            <a class="btn btn-outline-warning" href="/Home/Contact">Contact</a>
+            <a class="btn btn-danger" href="/Home/Privacy">Privacy</a>
+            <a class="btn btn-outline-success" href="/Account/Login">Login</a>
+            <a class="btn btn-success" href="/Account/Register">Register</a>
+        </center>
+    </nav>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer class="mt-5">
+        <center>
+            <p>CopyRights &copy;Route @DateTime.Now.Year</p>
+        </center>
+    </footer>
+</body>
+</html>
