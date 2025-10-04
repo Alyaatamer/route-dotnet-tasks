@@ -10,8 +10,6 @@ namespace IKEA.DAL.Configurations
             builder.Property(d => d.Id).UseIdentityColumn(10, 10);
             builder.Property(d => d.Name).HasColumnType("varchar(20)");
             builder.Property(d => d.code).HasColumnType("varchar(20)");
-            builder.Property(d => d.CreatedOn).HasDefaultValueSql("Getdate()");
-            builder.Property(d => d.LastModifiedOn).HasComputedColumnSql("Getdate()");
         }
     }
 }
