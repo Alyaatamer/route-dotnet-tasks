@@ -1,3 +1,4 @@
+using IKEA.BLL.Services;
 using IKEA.DAL.Contexts;
 using IKEA.DAL.Reposatories.DepartmentRepo;
 using Microsoft.EntityFrameworkCore;
@@ -20,6 +21,7 @@ namespace IKEA.pl
             });
 
             builder.Services.AddScoped<IDepartmentReposatory, DepartmentReposatory>();
+            builder.Services.AddScoped<IDepartmentServices, DepartmentServices>();
 
             var app = builder.Build();
 
