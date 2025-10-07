@@ -1,5 +1,6 @@
 ﻿using IKEA.BLL.Dto_s.DepartmentDto_s;
 using IKEA.BLL.Factories.DepartmentFactory;
+using IKEA.BLL.Services.DepartmentServices.DepartmentServices;
 using IKEA.DAL.Reposatories.DepartmentRepo;
 using System;
 using System.Collections.Generic;
@@ -7,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IKEA.BLL.Services
+namespace IKEA.BLL.Services.DepartmentServices.DepartmentServices
 {
     public class DepartmentServices : IDepartmentServices
     {

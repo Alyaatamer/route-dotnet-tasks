@@ -1,0 +1,25 @@
+﻿using AutoMapper;
+using IKEA.BLL.Dto_s.EmployeeDto_s;
+using IKEA.DAL.Models.Employee;
+using Microsoft.Extensions.Options;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace IKEA.BLL.Common.MappingProfiles
+{
+    public class ProjecrMapperProfile : Profile
+    {
+        public ProjecrMapperProfile()
+        {
+            CreateMap<Employee, EmployeeDto>().ReverseMap();
+            CreateMap<Employee, EmployeeDetailsDto>().ReverseMap();
+            CreateMap<CreatedEmployeeDto, Employee>()
+                .ForMember(dest => dest.EmployeeType, Options => Options.MapFrom(scr => scr.EmployeeType))
+                .ForMember(dest => dest.Gender, Options => Options.MapFrom(scr => scr.Gender));
+            CreateMap<UpdatedEmployeeDto, Employee>().ReverseMap();
+        }
+    }
+}

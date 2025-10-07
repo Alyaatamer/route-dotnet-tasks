@@ -1,0 +1,89 @@
+﻿@using IKEA.BLL.Dto_s.EmployeeDto_s
+
+@model IEnumerable<EmployeeDto>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Employees</h1>
+<br />
+<br />
+<a class="btn btn-primary" asp-controller="Employees" asp-action="Create">Create Employee</a>
+<br />
+@if (Model.Any())
+{
+    <table class="table table-striped table-hover mt-3">
+        <thead class="text-center">
+            <tr>
+                <th>@Html.DisplayNameFor(e => e.Name)</th>
+                <th>@Html.DisplayNameFor(e => e.Email)</th>
+                <th>@Html.DisplayNameFor(e => e.EmployeeType)</th>
+                <th>@Html.DisplayNameFor(e => e.Age)</th>
+                <th>@Html.DisplayNameFor(e => e.Salary)</th>
+                <th>@Html.DisplayNameFor(e => e.IsActive)</th>
+                <th>@Html.DisplayNameFor(e => e.Gender)</th>
+                <th>Details </th>
+                <th>Update</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody class="text-center">
+            @foreach (var employee in Model)
+            {
+                <tr>
+
+                    <td>@employee.Name</td>
+                    <td>@employee.Email</td>
+                    <td>@employee.EmployeeType</td>
+                    <td>@employee.Age</td>
+                    <td>@employee.Salary</td>
+                    <td>@employee.IsActive</td>
+                    <td>@employee.Gender</td>
+
+                    <td>
+                        <a class="btn btn-primary" asp-action="Details" asp-route-id="@employee.Id">
+                            <i class="fas fa-eye"></i> Details
+                        </a>
+                    </td>
+                    <td>
+                        <a class="btn btn-success" asp-action="Edit" asp-route-id="@employee.Id">
+                            <i class="fas fa-edit"></i> Edit
+                        </a>
+                    </td>
+                    <td>
+                        <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal-@employee.Id">
+                            <i class="fas fa-trash"></i> Delete
+                        </button>
+                        <!-- Delete Modal -->
+                        <div class="modal fade" id="deleteModal-@employee.Id" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h1 class="modal-title fs-5" id="exampleModalLabel">Delete Employee</h1>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        Are You Sure to Delete this Employee?
+                                    </div>
+                                    <div class="modal-footer">
+                                        <form method="post" asp-action="Delete" asp-controller="Employees" asp-route-id="@employee.Id" class="mt-4">
+                                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                            <input type="submit" value="Delete" class="btn btn-danger" />
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info mt-3">
+        <h2>No Employees Found !!</h2>
+    </div>
+}

@@ -1,4 +1,6 @@
-﻿namespace IKEA.DAL.Contexts
+﻿using IKEA.DAL.Models.Employee;
+
+namespace IKEA.DAL.Contexts
 {
     public class ApplicationDbContext : DbContext
     {
@@ -13,6 +15,7 @@
         }
 
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Employee> Employees { get; set; }
 
         }
 }
