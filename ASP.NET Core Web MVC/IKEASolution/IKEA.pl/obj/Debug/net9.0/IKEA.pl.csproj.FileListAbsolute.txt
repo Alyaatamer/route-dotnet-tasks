@@ -91,7 +91,6 @@ F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.IKEA.pl.props
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.IKEA.pl.props
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\staticwebassets.pack.json
-F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\IKEA.pl.dll
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\refint\IKEA.pl.dll
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\IKEA.pl.pdb
@@ -344,3 +343,4 @@ F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\AutoMapper.dll
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

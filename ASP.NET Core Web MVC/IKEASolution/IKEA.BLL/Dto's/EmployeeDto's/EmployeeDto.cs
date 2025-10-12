@@ -1,4 +1,6 @@
-﻿using System;
+﻿using IKEA.DAL.Models.Employee;
+using IKEA.DAL.Models.Shared;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -18,8 +20,8 @@ namespace IKEA.BLL.Dto_s.EmployeeDto_s
         public bool IsActive { get; set; }
         [EmailAddress]
         public string? Email { get; set; }
-        public string Gender { get; set; }
+        public Gender Gender { get; set; }
         [Display(Name = "Employee Type")]
-        public string EmployeeType { get; set; }
+        public EmployeeType EmployeeType { get; set; }
     }
 }

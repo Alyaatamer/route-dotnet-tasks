@@ -8,7 +8,7 @@
 <h1>All Employees</h1>
 <br />
 <br />
-<a class="btn btn-primary" asp-controller="Employees" asp-action="Create">Create Employee</a>
+<a class="btn btn-primary" asp-controller="Employee" asp-action="Create">Create Employee</a>
 <br />
 @if (Model.Any())
 {
@@ -40,16 +40,10 @@
                     <td>@employee.IsActive</td>
                     <td>@employee.Gender</td>
 
-                    <td>
-                        <a class="btn btn-primary" asp-action="Details" asp-route-id="@employee.Id">
-                            <i class="fas fa-eye"></i> Details
-                        </a>
-                    </td>
-                    <td>
-                        <a class="btn btn-success" asp-action="Edit" asp-route-id="@employee.Id">
-                            <i class="fas fa-edit"></i> Edit
-                        </a>
-                    </td>
+                    <partial name="PartialViews/Details_Edit" model="@employee.Id">
+
+                    </partial>
+
                     <td>
                         <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteModal-@employee.Id">
                             <i class="fas fa-trash"></i> Delete
@@ -66,7 +60,7 @@
                                         Are You Sure to Delete this Employee?
                                     </div>
                                     <div class="modal-footer">
-                                        <form method="post" asp-action="Delete" asp-controller="Employees" asp-route-id="@employee.Id" class="mt-4">
+                                        <form method="post" asp-action="Delete" asp-controller="Employee" asp-route-id="@employee.Id" class="mt-4">
                                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                                             <input type="submit" value="Delete" class="btn btn-danger" />
                                         </form>

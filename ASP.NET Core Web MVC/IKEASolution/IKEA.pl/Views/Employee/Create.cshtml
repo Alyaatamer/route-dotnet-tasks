@@ -1,4 +1,6 @@
 ﻿@using IKEA.BLL.Dto_s.EmployeeDto_s
+@using IKEA.DAL.Models.Employee
+@using IKEA.DAL.Models.Shared
 
 @model CreatedEmployeeDto
 @{
@@ -8,7 +10,7 @@
 
 <div class="row justify-content-center align-content-center mt-3">
     <h1 class="col-8 my-4">Create Employee</h1>
-    <form method="post" asp-controller="Employees" asp-action="Create" class=" row col-8" enctype="multipart/form-data">
+    <form method="post" asp-controller="Employee" asp-action="Create" class=" row col-8" enctype="multipart/form-data">
         <div asp-validation-summary="ModelOnly"></div>
         <div class="form-group mb-3 col-6">
             <label class="form-label" asp-for="Name"></label>
@@ -46,13 +48,33 @@
             <span asp-validation-for="Salary" class="text-danger"></span>
         </div>
         <div class="form-group mb-3 col-6">
+            <label class="form-label" asp-for="EmployeeType"></label>
+            <select class="form-control" asp-for="EmployeeType" asp-items="Html.GetEnumSelectList<EmployeeType>()">
+                <option value="">Choose Employee Type...</option>
+            </select>
+            <span asp-validation-for="EmployeeType" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3 col-6">
+            <label class="form-label" asp-for="Gender"></label>
+            @foreach(var genderoption in Enum.GetValues<Gender>())
+            {
+                <div class="form-check form-check-inline" >
+                    <input class="form-check-input" type="radio" asp-for="Gender" value="@genderoption" />
+                    <label class="form-check-label">@genderoption</label>
+                </div>
+            }
+            <span asp-validation-for="Gender" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3 col-6">
             <input asp-for="IsActive" class="form-check-input" />
             <label class="col-form-label" asp-for="IsActive"></label>
         </div>
 
         <div class="mt-4 m-auto">
             <input class="btn btn-primary" type="submit" value="Save" />
-            <a asp-controller="Employees" asp-action="Index" class="btn btn-outline-dark">Back to list</a>
+            <a asp-controller="Employee" asp-action="Index" class="btn btn-outline-dark">Back to list</a>
         </div>
     </form>
 </div>

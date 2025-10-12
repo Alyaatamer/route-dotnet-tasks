@@ -1,4 +1,6 @@
-﻿using System;
+﻿using IKEA.DAL.Models.Employee;
+using IKEA.DAL.Models.Shared;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,8 +19,8 @@ namespace IKEA.BLL.Dto_s.EmployeeDto_s
         public string? Email { get; set; }
         public string? PhoneNumber { get; set; }
         public DateOnly HiringDate { get; set; }
-        public string Gender { get; set; }
-        public string EmployeeType { get; set; }
+        public Gender Gender { get; set; }
+        public EmployeeType EmployeeType { get; set; }
         public int CreatedBy { get; set; }
         public DateTime CreatedOn { get; set; }
         public int LastModifiedBy { get; set; }
