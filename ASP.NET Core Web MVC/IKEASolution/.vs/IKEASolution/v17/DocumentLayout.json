@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76BA4D92-AAA6-4A13-9634-F42FD537024F}|IKEA.pl\\IKEA.pl.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76BA4D92-AAA6-4A13-9634-F42FD537024F}|IKEA.pl\\IKEA.pl.csproj|solutionrelative:ikea.pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.bll\\common\\mappingprofiles\\projecrmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|solutionrelative:ikea.bll\\common\\mappingprofiles\\projecrmapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76BA4D92-AAA6-4A13-9634-F42FD537024F}|IKEA.pl\\IKEA.pl.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{76BA4D92-AAA6-4A13-9634-F42FD537024F}|IKEA.pl\\IKEA.pl.csproj|solutionrelative:ikea.pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.bll\\dto\u0027s\\employeedto\u0027s\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|solutionrelative:ikea.bll\\dto\u0027s\\employeedto\u0027s\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76BA4D92-AAA6-4A13-9634-F42FD537024F}|IKEA.pl\\IKEA.pl.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76BA4D92-AAA6-4A13-9634-F42FD537024F}|IKEA.pl\\IKEA.pl.csproj|solutionrelative:ikea.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.bll\\dto\u0027s\\employeedto\u0027s\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|solutionrelative:ikea.bll\\dto\u0027s\\employeedto\u0027s\\employeedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.bll\\dto\u0027s\\employeedto\u0027s\\updatedemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|solutionrelative:ikea.bll\\dto\u0027s\\employeedto\u0027s\\updatedemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.bll\\dto\u0027s\\employeedto\u0027s\\createdemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FF78FB-32FC-4441-B558-17DC266BABB1}|IKEA.BLL\\IKEA.BLL.csproj|solutionrelative:ikea.bll\\dto\u0027s\\employeedto\u0027s\\createdemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76BA4D92-AAA6-4A13-9634-F42FD537024F}|IKEA.pl\\IKEA.pl.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\ikeasolution\\ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 342,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +46,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "IKEA.pl\\Views\\Employee\\Index.cshtml",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "IKEA.pl\\Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD4AAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T13:52:21.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\Views\\Employee\\Delete.cshtml",
-              "RelativeDocumentMoniker": "IKEA.pl\\Views\\Employee\\Delete.cshtml",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\Views\\Employee\\Delete.cshtml",
-              "RelativeToolTip": "IKEA.pl\\Views\\Employee\\Delete.cshtml",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAiwFQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T13:43:55.112Z",
+              "Title": "ProjecrMapperProfile.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Common\\MappingProfiles\\ProjecrMapperProfile.cs",
+              "RelativeDocumentMoniker": "IKEA.BLL\\Common\\MappingProfiles\\ProjecrMapperProfile.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Common\\MappingProfiles\\ProjecrMapperProfile.cs",
+              "RelativeToolTip": "IKEA.BLL\\Common\\MappingProfiles\\ProjecrMapperProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:36:23.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "IKEA.pl\\Controllers\\EmployeeController.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "IKEA.pl\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAwwKoAAAAgAAAAAAAAAA==",
+              "Title": "EmployeeDetailsDto.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDetailsDto.cs",
+              "RelativeDocumentMoniker": "IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDetailsDto.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDetailsDto.cs",
+              "RelativeToolTip": "IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDetailsDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA2wBwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T18:19:03.416Z",
+              "WhenOpened": "2025-10-12T20:35:34.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDto.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDto.cs",
+              "RelativeToolTip": "IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\EmployeeDto.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA/wBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:35:20.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "UpdatedEmployeeDto.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\UpdatedEmployeeDto.cs",
+              "RelativeDocumentMoniker": "IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\UpdatedEmployeeDto.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\UpdatedEmployeeDto.cs",
+              "RelativeToolTip": "IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\UpdatedEmployeeDto.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA/wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:34:42.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatedEmployeeDto.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\CreatedEmployeeDto.cs",
+              "RelativeDocumentMoniker": "IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\CreatedEmployeeDto.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\CreatedEmployeeDto.cs",
+              "RelativeToolTip": "IKEA.BLL\\Dto\u0027s\\EmployeeDto\u0027s\\CreatedEmployeeDto.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T20:34:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\Program.cs",
               "RelativeDocumentMoniker": "IKEA.pl\\Program.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\Program.cs",
               "RelativeToolTip": "IKEA.pl\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T12:14:58.186Z"
+              "WhenOpened": "2025-09-23T12:14:58.186Z",
+              "EditorCaption": ""
             }
           ]
         },

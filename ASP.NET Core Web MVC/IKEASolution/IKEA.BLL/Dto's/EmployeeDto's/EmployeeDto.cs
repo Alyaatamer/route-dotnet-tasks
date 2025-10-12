@@ -23,5 +23,7 @@ namespace IKEA.BLL.Dto_s.EmployeeDto_s
         public Gender Gender { get; set; }
         [Display(Name = "Employee Type")]
         public EmployeeType EmployeeType { get; set; }
+
+        public string DepartmentName { get; set; }
     }
 }

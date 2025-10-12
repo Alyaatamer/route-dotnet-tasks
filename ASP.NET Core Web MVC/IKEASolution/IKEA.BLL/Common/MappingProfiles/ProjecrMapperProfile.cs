@@ -5,6 +5,7 @@ using Microsoft.Extensions.Options;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,12 +15,20 @@ namespace IKEA.BLL.Common.MappingProfiles
     {
         public ProjecrMapperProfile()
         {
-            CreateMap<Employee, EmployeeDto>().ReverseMap();
-            CreateMap<Employee, EmployeeDetailsDto>().ReverseMap();
+            CreateMap<Employee, EmployeeDto>().ForMember(d => d.DepartmentName,Options => Options.MapFrom(src => src.Department!=null ?src.Department.Name : "N/A" )).ReverseMap();
+
+
+            CreateMap<Employee, EmployeeDetailsDto>().ForMember(d => d.DepartmentName, Options => Options.MapFrom(src => src.Department != null ? src.Department.Name : "N/A")).ReverseMap();
+
+
             CreateMap<CreatedEmployeeDto, Employee>()
                 .ForMember(dest => dest.EmployeeType, Options => Options.MapFrom(scr => scr.EmployeeType))
                 .ForMember(dest => dest.Gender, Options => Options.MapFrom(scr => scr.Gender));
+
+
             CreateMap<UpdatedEmployeeDto, Employee>().ReverseMap();
+
+
         }
     }
 }

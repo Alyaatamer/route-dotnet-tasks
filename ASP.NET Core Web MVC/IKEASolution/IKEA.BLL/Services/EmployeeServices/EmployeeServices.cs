@@ -25,7 +25,12 @@ namespace IKEA.BLL.Services.EmployeeServices
 
 
         public IEnumerable<EmployeeDto> GetAllEmployees()
-          => mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeDto>>(_reposatory.GetAll());
+        {
+            var employees = _reposatory.GetAll();
+            var employeesDto = mapper.Map<IEnumerable<Employee>, IEnumerable<EmployeeDto>>(employees);
+            return employeesDto;
+        }
+          //=> mapper.Map<IQueryable<Employee>, IQueryable<EmployeeDto>>(_reposatory.GetAll());
 
 
         public EmployeeDetailsDto GetEmployeeById(int id)

@@ -10,6 +10,11 @@ namespace IKEA.DAL.Configurations
             builder.Property(d => d.Id).UseIdentityColumn(10, 10);
             builder.Property(d => d.Name).HasColumnType("varchar(20)");
             builder.Property(d => d.code).HasColumnType("varchar(20)");
+
+            builder.HasMany(d => d.Employees)
+                   .WithOne(e => e.Department)
+                   .HasForeignKey(e => e.DepartmentId)
+                   .OnDelete(DeleteBehavior.SetNull);
         }
     }
 }

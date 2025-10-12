@@ -20,5 +20,10 @@ namespace IKEA.DAL.Models.Employee
         public Gender Gender { get; set; }
         public EmployeeType EmployeeType { get; set; }
 
+
+        // Foreign Key
+        public int? DepartmentId { get; set; }
+        public Department.Department? Department { get; set; }
+
     }
 }

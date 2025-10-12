@@ -12,5 +12,7 @@ namespace IKEA.DAL.Models.Department
         public string Name { get; set; }
         public string code { get; set; }
         public string? Description { get; set; }
+
+        public virtual ICollection<Employee.Employee> Employees { get; set; } = new HashSet<Employee.Employee>();
     }
 }
