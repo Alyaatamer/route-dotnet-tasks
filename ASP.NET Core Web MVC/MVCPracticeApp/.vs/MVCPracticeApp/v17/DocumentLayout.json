@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\MVCPracticeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48390D10-F099-4D94-AEDC-FFF59C86286D}|MVCPracticeApp\\MVCApp.PL.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\mvcpracticeapp\\mvcpracticeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48390D10-F099-4D94-AEDC-FFF59C86286D}|MVCPracticeApp\\MVCApp.PL.csproj|solutionrelative:mvcpracticeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71793DAA-5020-44B0-B9FF-0F3C43F53DBB}|MVCApp.PL\\MVCApp.BLL.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\mvcpracticeapp\\mvcapp.pl\\services\\course\\courseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71793DAA-5020-44B0-B9FF-0F3C43F53DBB}|MVCApp.PL\\MVCApp.BLL.csproj|solutionrelative:mvcapp.pl\\services\\course\\courseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71793DAA-5020-44B0-B9FF-0F3C43F53DBB}|MVCApp.PL\\MVCApp.BLL.csproj|f:\\route-dotnet-tasks\\asp.net core web mvc\\mvcpracticeapp\\mvcapp.pl\\services\\course\\icourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71793DAA-5020-44B0-B9FF-0F3C43F53DBB}|MVCApp.PL\\MVCApp.BLL.csproj|solutionrelative:mvcapp.pl\\services\\course\\icourseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 374,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourseServices.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\MVCPracticeApp\\MVCApp.PL\\Services\\Course\\ICourseServices.cs",
+              "RelativeDocumentMoniker": "MVCApp.PL\\Services\\Course\\ICourseServices.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\MVCPracticeApp\\MVCApp.PL\\Services\\Course\\ICourseServices.cs",
+              "RelativeToolTip": "MVCApp.PL\\Services\\Course\\ICourseServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:58:18.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseServices.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\MVCPracticeApp\\MVCApp.PL\\Services\\Course\\CourseServices.cs",
+              "RelativeDocumentMoniker": "MVCApp.PL\\Services\\Course\\CourseServices.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\MVCPracticeApp\\MVCApp.PL\\Services\\Course\\CourseServices.cs",
+              "RelativeToolTip": "MVCApp.PL\\Services\\Course\\CourseServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:58:08.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\MVCPracticeApp\\MVCPracticeApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVCPracticeApp\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\MVCPracticeApp\\MVCPracticeApp\\Program.cs",
+              "RelativeToolTip": "MVCPracticeApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:01:58.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

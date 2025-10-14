@@ -15,6 +15,7 @@ namespace IKEA.DAL.Configurations
                    .WithOne(e => e.Department)
                    .HasForeignKey(e => e.DepartmentId)
                    .OnDelete(DeleteBehavior.SetNull);
+
         }
     }
 }
