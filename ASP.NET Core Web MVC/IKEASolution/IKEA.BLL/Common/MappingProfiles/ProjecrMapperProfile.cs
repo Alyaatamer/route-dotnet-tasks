@@ -1,13 +1,6 @@
 ﻿using AutoMapper;
 using IKEA.BLL.Dto_s.EmployeeDto_s;
 using IKEA.DAL.Models.Employee;
-using Microsoft.Extensions.Options;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace IKEA.BLL.Common.MappingProfiles
 {

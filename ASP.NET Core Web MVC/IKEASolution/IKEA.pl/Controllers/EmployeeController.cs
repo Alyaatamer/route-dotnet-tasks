@@ -1,6 +1,7 @@
 ﻿using IKEA.BLL.Dto_s.EmployeeDto_s;
 using IKEA.BLL.Services.DepartmentServices.DepartmentServices;
 using IKEA.BLL.Services.EmployeeServices;
+using IKEA.DAL.Models.Department;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IKEA.pl.Controllers
@@ -11,7 +12,7 @@ namespace IKEA.pl.Controllers
         private readonly ILogger<EmployeeController> logger;
         private readonly IWebHostEnvironment environment;
 
-        public EmployeeController(IEmployeeServices employee,ILogger<EmployeeController> logger , IWebHostEnvironment environment)
+        public EmployeeController(IEmployeeServices employee,ILogger<EmployeeController> logger , IWebHostEnvironment environment )
         {
             this.employee = employee;
             this.logger = logger;
@@ -25,7 +26,9 @@ namespace IKEA.pl.Controllers
 
         #region Create
         [HttpGet]
-        public IActionResult Create() => View();
+        public IActionResult Create() {
+            return View();
+        }
         
 
         [HttpPost]

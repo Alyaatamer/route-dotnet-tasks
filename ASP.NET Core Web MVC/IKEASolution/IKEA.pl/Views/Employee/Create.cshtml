@@ -1,11 +1,15 @@
 ﻿@using IKEA.BLL.Dto_s.EmployeeDto_s
+@using IKEA.BLL.Services.DepartmentServices.DepartmentServices
 @using IKEA.DAL.Models.Employee
 @using IKEA.DAL.Models.Shared
-
 @model CreatedEmployeeDto
+
+@inject IDepartmentServices departmentServices;
+
+
 @{
     ViewData["Title"] = "Create";
-
+    var departments = new SelectList(departmentServices.GetAllDepartments(), nameof(DepartmentDto.Id), nameof(DepartmentDto.Name));
 }
 
 <div class="row justify-content-center align-content-center mt-3">
@@ -42,6 +46,16 @@
             <input type="date" asp-for="HiringDate" class="form-control" />
             <span asp-validation-for="HiringDate" class="text-danger"></span>
         </div>
+
+        <div class="form-group mb-3 col-6">
+            <label class="form-label" asp-for="DepartmentId"></label>
+            <select class="form-control" asp-for="DepartmentId" asp-items="@departments">
+                <option value="@null">Choose Department...</option>
+            </select>
+            <span asp-validation-for="DepartmentId" class="text-danger"></span>
+        </div>
+
+
         <div class="form-group mb-3 col-6">
             <label class="form-label" asp-for="Salary"></label>
             <input asp-for="Salary" class="form-control" />

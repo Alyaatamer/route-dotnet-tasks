@@ -23,7 +23,7 @@ namespace IKEA.DAL.Models.Employee
 
         // Foreign Key
         public int? DepartmentId { get; set; }
-        public Department.Department? Department { get; set; }
+        public virtual Department.Department? Department { get; set; }
 
     }
 }

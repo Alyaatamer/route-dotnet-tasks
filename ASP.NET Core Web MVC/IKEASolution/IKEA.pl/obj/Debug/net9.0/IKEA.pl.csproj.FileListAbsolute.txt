@@ -344,3 +344,5 @@ F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\AutoMapper.dll
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Castle.Core.dll
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
