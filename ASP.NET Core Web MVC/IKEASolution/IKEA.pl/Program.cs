@@ -1,12 +1,11 @@
 using IKEA.BLL.Common.MappingProfiles;
-using IKEA.BLL.Services.DepartmentServices;
 using IKEA.BLL.Services.DepartmentServices.DepartmentServices;
 using IKEA.BLL.Services.EmployeeServices;
 using IKEA.DAL.Contexts;
 using IKEA.DAL.Reposatories.DepartmentRepo;
 using IKEA.DAL.Reposatories.EmployeeRepo;
+using IKEA.DAL.UOW;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Options;
 
 namespace IKEA.pl
 {
@@ -25,10 +24,13 @@ namespace IKEA.pl
                 Options.UseLazyLoadingProxies();
             });
 
-            builder.Services.AddScoped<IDepartmentReposatory, DepartmentReposatory>();
+            //builder.Services.AddScoped<IDepartmentReposatory, DepartmentReposatory>();
             builder.Services.AddScoped<IDepartmentServices, DepartmentServices>();
 
-            builder.Services.AddScoped<IEmployeeReposatory, EmployeeReposatory>();
+            //builder.Services.AddScoped<IEmployeeReposatory, EmployeeReposatory>();
+
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
             builder.Services.AddScoped<IEmployeeServices, EmployeeServices>();
 
             builder.Services.AddAutoMapper(cfg => { } ,typeof(ProjecrMapperProfile));

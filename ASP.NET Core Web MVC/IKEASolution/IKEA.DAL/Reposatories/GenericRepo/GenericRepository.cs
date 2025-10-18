@@ -26,20 +26,17 @@ namespace IKEA.DAL.Reposatories.GenericRepo
         {
             return _context.Set<TEntity>().Find(id);
         }
-        public int Add(TEntity item)
+        public void Add(TEntity item)
         {
             _context.Set<TEntity>().Add(item);
-            return _context.SaveChanges();
         }
-        public int Update(TEntity item)
+        public void Update(TEntity item)
         {
             _context.Set<TEntity>().Update(item);
-            return _context.SaveChanges();
         }
-        public int Delete(int id)
+        public void Delete(int id)
         {
             _context.Set<TEntity>().Remove(GetById(id));
-            return _context.SaveChanges();
         }
 
         //public IEnumerable<TEntity> GetEnumerable()

@@ -18,10 +18,13 @@ namespace IKEA.pl.Controllers
             this.logger = logger;
             this.environment = environment;
         }
-        public IActionResult Index()
+        public IActionResult Index(string? searchValue)
         {
-            var emps = employee.GetAllEmployees();
-            return View(emps);
+            if(searchValue == null)
+            {
+                return View(employee.GetAllEmployees());
+            }
+            return View(employee.GetSearchedEmployees(searchValue));
         }
 
         #region Create

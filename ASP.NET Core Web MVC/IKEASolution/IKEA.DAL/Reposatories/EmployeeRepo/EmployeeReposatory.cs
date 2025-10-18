@@ -18,5 +18,11 @@ namespace IKEA.DAL.Reposatories.EmployeeRepo
             _context = context;
         }
 
+        public IEnumerable<Employee> GetAll(string? searchValue)
+        {
+            if(searchValue == null)  return GetAll();
+
+            return _context.Employees.Where(e => e.Name.Trim().ToLower().Contains(searchValue.Trim().ToLower()));
+        }
     }
 }

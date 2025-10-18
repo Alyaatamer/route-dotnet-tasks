@@ -12,6 +12,18 @@
 <br />
 @if (Model.Any())
 {
+
+    <div class="m-2">
+        <form asp-action="Index" class="row offset-2" method="get">
+            <div class="col-8">
+                <input class="form-control" type="text" name="searchValue" placeholder="Search" />
+            </div>
+            <div class="col-4">
+                <input type="submit" class="btn btn-dark" value="Search" />
+            </div>
+        </form>
+    </div>
+
     <table class="table table-striped table-hover mt-3">
         <thead class="text-center">
             <tr>

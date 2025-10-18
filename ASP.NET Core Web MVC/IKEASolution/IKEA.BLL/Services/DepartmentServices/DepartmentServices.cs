@@ -2,6 +2,7 @@
 using IKEA.BLL.Factories.DepartmentFactory;
 using IKEA.BLL.Services.DepartmentServices.DepartmentServices;
 using IKEA.DAL.Reposatories.DepartmentRepo;
+using IKEA.DAL.UOW;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,15 +13,16 @@ namespace IKEA.BLL.Services.DepartmentServices.DepartmentServices
 {
     public class DepartmentServices : IDepartmentServices
     {
-        private readonly IDepartmentReposatory _reposatory;
-        public DepartmentServices(IDepartmentReposatory reposatory)
+        private readonly IUnitOfWork unitOfWork;
+
+        public DepartmentServices(IUnitOfWork unitOfWork)
         {
-            _reposatory = reposatory;
+            this.unitOfWork = unitOfWork;
         }
 
         public IEnumerable<DepartmentDto> GetAllDepartments()
         {
-            var departments = _reposatory.GetAll();
+            var departments = unitOfWork.DepartmentReposatory.GetAll();
 
             var mappedDepartments = departments.Select(d => new DepartmentDto()
             {
@@ -34,7 +36,7 @@ namespace IKEA.BLL.Services.DepartmentServices.DepartmentServices
         }
         public DepartmentDetailsDto GetDepartmentById(int id)
         {
-            var department = _reposatory.GetById(id);
+            var department = unitOfWork.DepartmentReposatory.GetById(id);
             if( department == null) return null;
 
             var DepartmentDetails = department.ToEntity();
@@ -46,17 +48,20 @@ namespace IKEA.BLL.Services.DepartmentServices.DepartmentServices
         public int AddDepartment(CreatedDepartmentDto dto)
         {
             var dept = dto.ToDepartment();
-            return _reposatory.Add(dept);
+            unitOfWork.DepartmentReposatory.Add(dept);
+            return unitOfWork.Complete();
         }
 
         public int UpdateDepartment(UpdatedDepartmentDto dto)
         {
             var dept = dto.FromUpdatedDepartment();
-            return _reposatory.Update(dept);
+            unitOfWork.DepartmentReposatory.Update(dept);
+            return unitOfWork.Complete();
         }
         public int DeleteDepartment(int id)
         {
-            return _reposatory.Delete(id);
+            unitOfWork.DepartmentReposatory.Delete(id);
+            return unitOfWork.Complete();
         }
 
     }
