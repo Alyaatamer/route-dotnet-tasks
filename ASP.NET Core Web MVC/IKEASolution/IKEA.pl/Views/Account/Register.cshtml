@@ -1,0 +1,43 @@
+﻿@using IKEA.pl.ViewModels
+@model RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<div class="main-agileinfo">
+    <div class="agileits-top">
+        <form asp-action="Register" method="post" asp-controller="Account">
+            <div asp-validation-summary="ModelOnly"></div>
+            <input asp-for="FirstName" placeholder="FirstName" required="">
+            <span asp-validation-for="FirstName"></span>
+            <br />
+            <input asp-for="LastName" placeholder="Last Name" required="">
+            <span asp-validation-for="LastName"></span>
+            <br />
+            <input asp-for="UserName" placeholder="UserName" required="">
+            <span asp-validation-for="UserName"></span>
+            <br />
+            <input asp-for="Email" placeholder="Email" required="">
+            <span asp-validation-for="Email"></span>
+            <br />
+            <input asp-for="Password" placeholder="Password" required="">
+            <span asp-validation-for="Password"></span>
+            <br />
+            <input asp-for="ConfirmPassword" placeholder="Confirm Password" required="">
+            <span asp-validation-for="ConfirmPassword"></span>
+            <br />
+
+            <div class="wthree-text">
+                <label class="anim">
+                    <input asp-for="IsAgree" class="checkbox" required="">
+                    <span>I Agree To The Terms & Conditions</span>
+                </label>
+                <div class="clear"> </div>
+            </div>
+            <input type="submit" value="SIGNUP">
+        </form>
+        <p>Don you have an Account? <a asp-action="Login"> Login Now!</a></p>
+    </div>
+</div>
+

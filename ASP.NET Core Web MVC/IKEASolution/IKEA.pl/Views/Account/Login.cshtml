@@ -1,0 +1,32 @@
+﻿@using IKEA.pl.ViewModels
+@model LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<div class="main-agileinfo">
+    <div class="agileits-top">
+        <form asp-action="Login" method="post">
+            <div asp-validation-summary="All"></div>
+
+            <input asp-for="Email" placeholder="Email" required="">
+            <span asp-validation-for="Email"></span>
+            <br />
+            <input asp-for="Password" placeholder="Password" required="">
+            <span asp-validation-for="Password"></span>
+            <br />
+
+            <div class="wthree-text">
+                <label class="anim">
+                    <input asp-for="RememberMe" class="checkbox" required>
+                    <span>Keep Me Signed In</span>
+                </label>
+                <div class="clear"> </div>
+            </div>
+            <input type="submit" value="SIGNIN">
+        </form>
+        <p>Don't have an Account? <a asp-action="Register"> Register Now!</a></p>
+    </div>
+</div>
+

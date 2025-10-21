@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qq1p5FXYr2ehH8zUM5Kngbfpc/Hj0eAh5xOCv6Zbhio=",
+  "Hash": "wfVlasVVz9ssU/jPa+imHtVHbQssYZkB0sh2i/Gc3pQ=",
   "Source": "IKEA.pl",
   "BasePath": "_content/IKEA.pl",
   "Mode": "Default",
@@ -162,6 +162,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\compressed\\3q7tb8zknq-hv9sow44dx.gz",
+      "SourceId": "IKEA.pl",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/IKEA.pl",
+      "RelativePath": "css/AuthStyle#[.{fingerprint=hv9sow44dx}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\css\\AuthStyle.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "elwabfrf49",
+      "Integrity": "grp1XM0bBpE2fJPwGd0qA+htQP16Io3chPPOA8Q0fK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\css\\AuthStyle.css"
     },
     {
       "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\compressed\\4760wkk68y-x0q3zqp4vz.gz",
@@ -1401,6 +1422,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\IKEA.pl.bundle.scp.css"
+    },
+    {
+      "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\css\\AuthStyle.css",
+      "SourceId": "IKEA.pl",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\",
+      "BasePath": "_content/IKEA.pl",
+      "RelativePath": "css/AuthStyle#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hv9sow44dx",
+      "Integrity": "Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AuthStyle.css"
     },
     {
       "Identity": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\css\\site.css",
@@ -2728,6 +2770,304 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/AuthStyle.css",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\compressed\\3q7tb8zknq-hv9sow44dx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000317057705"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"grp1XM0bBpE2fJPwGd0qA+htQP16Io3chPPOA8Q0fK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Oct 2025 14:10:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk="
+        }
+      ]
+    },
+    {
+      "Route": "css/AuthStyle.css",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\css\\AuthStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Oct 2025 14:10:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk="
+        }
+      ]
+    },
+    {
+      "Route": "css/AuthStyle.css.gz",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\compressed\\3q7tb8zknq-hv9sow44dx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"grp1XM0bBpE2fJPwGd0qA+htQP16Io3chPPOA8Q0fK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Oct 2025 14:10:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-grp1XM0bBpE2fJPwGd0qA+htQP16Io3chPPOA8Q0fK0="
+        }
+      ]
+    },
+    {
+      "Route": "css/AuthStyle.hv9sow44dx.css",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\compressed\\3q7tb8zknq-hv9sow44dx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000317057705"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3153"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"grp1XM0bBpE2fJPwGd0qA+htQP16Io3chPPOA8Q0fK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Oct 2025 14:10:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hv9sow44dx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AuthStyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk="
+        }
+      ]
+    },
+    {
+      "Route": "css/AuthStyle.hv9sow44dx.css",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\css\\AuthStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16996"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Oct 2025 14:10:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hv9sow44dx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AuthStyle.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Awf6u9iQ89C41TWVb8fzk4Ha2xnPlznN+oWemoVAgKk="
+        }
+      ]
+    },
+    {
+      "Route": "css/AuthStyle.hv9sow44dx.css.gz",
+      "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\compressed\\3q7tb8zknq-hv9sow44dx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"grp1XM0bBpE2fJPwGd0qA+htQP16Io3chPPOA8Q0fK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 21 Oct 2025 14:10:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hv9sow44dx"
+        },
+        {
+          "Name": "label",
+          "Value": "css/AuthStyle.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-grp1XM0bBpE2fJPwGd0qA+htQP16Io3chPPOA8Q0fK0="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\obj\\Debug\\net9.0\\compressed\\27r1w2rtcd-b9sayid5wm.gz",
       "Selectors": [
@@ -3348,7 +3688,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3401,7 +3741,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3438,7 +3778,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3485,7 +3825,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3546,7 +3886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3591,7 +3931,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3646,7 +3986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3707,7 +4047,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3752,7 +4092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3807,7 +4147,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3860,7 +4200,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3897,7 +4237,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 17 Oct 2025 19:35:50 GMT"
+          "Value": "Tue, 21 Oct 2025 15:28:52 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -5,6 +5,7 @@ F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\boot
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\css\site.css
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\css\AuthStyle.css
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\jquery-validation\LICENSE.md
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -60,6 +61,7 @@ F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\boot
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\wwwroot\lib\jquery\dist\jquery.js
+wwwroot\css\AuthStyle.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

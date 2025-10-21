@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\IKEA.pl.ksx0mbn2d8.bundle.scp.css"
     },
     {
+      "Id": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\css\\AuthStyle.css",
+      "PackagePath": "staticwebassets\\css\\AuthStyle.css"
+    },
+    {
       "Id": "F:\\route-dotnet-tasks\\ASP.NET Core Web MVC\\IKEASolution\\IKEA.pl\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

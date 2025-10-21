@@ -2,9 +2,11 @@ using IKEA.BLL.Common.MappingProfiles;
 using IKEA.BLL.Services.DepartmentServices.DepartmentServices;
 using IKEA.BLL.Services.EmployeeServices;
 using IKEA.DAL.Contexts;
+using IKEA.DAL.Models.Auth;
 using IKEA.DAL.Reposatories.DepartmentRepo;
 using IKEA.DAL.Reposatories.EmployeeRepo;
 using IKEA.DAL.UOW;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace IKEA.pl
@@ -34,6 +36,10 @@ namespace IKEA.pl
             builder.Services.AddScoped<IEmployeeServices, EmployeeServices>();
 
             builder.Services.AddAutoMapper(cfg => { } ,typeof(ProjecrMapperProfile));
+
+
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
+
 
             var app = builder.Build();
 

@@ -346,3 +346,9 @@ F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Castle.Core.dll
 F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+F:\route-dotnet-tasks\ASP.NET Core Web MVC\IKEASolution\IKEA.pl\obj\Debug\net9.0\compressed\3q7tb8zknq-hv9sow44dx.gz
