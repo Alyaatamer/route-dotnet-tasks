@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persistence\\seed\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\seed\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.domain\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persistence\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.domain\\contracts\\seed\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\contracts\\seed\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 374,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "products.json",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\Data\\products.json",
+              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persistence\\Data\\products.json",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\Data\\products.json",
+              "RelativeToolTip": "InfraStructure\\ECommerce.Persistence\\Data\\products.json",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-25T09:25:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Models\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Models\\Products\\Product.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Models\\Products\\Product.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Models\\Products\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:23:52.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\Seed\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persistence\\Seed\\DataSeeding.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\Seed\\DataSeeding.cs",
+              "RelativeToolTip": "InfraStructure\\ECommerce.Persistence\\Seed\\DataSeeding.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:51:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Contracts\\Seed\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\Seed\\IDataSeeding.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Contracts\\Seed\\IDataSeeding.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\Seed\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:49:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeToolTip": "ECommerce\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:26:11.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
