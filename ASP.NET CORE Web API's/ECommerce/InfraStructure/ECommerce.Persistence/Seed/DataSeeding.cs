@@ -20,7 +20,7 @@ namespace ECommerce.Persistence.Seed
         {
             this.context = context;
         }
-        public void DataSeed()
+        public async Task DataSeedAsync()
         {
             if (context.Database.GetPendingMigrations().Any())
             {
@@ -29,7 +29,7 @@ namespace ECommerce.Persistence.Seed
 
             if(!context.ProductBrands.Any())
             {
-                var BrandData = File.ReadAllText(@"..\InfraStructure\ECommerce.Persistence\Data\brands.json");
+                var BrandData = await File.ReadAllTextAsync(@"..\InfraStructure\ECommerce.Persistence\Data\brands.json");
                 var brands = JsonSerializer.Deserialize<List<ProductBrand>>(BrandData);
 
                 if(brands != null && brands.Any())
@@ -40,7 +40,7 @@ namespace ECommerce.Persistence.Seed
 
             if (!context.ProductTypes.Any())
             {
-                var TypeData = File.ReadAllText(@"..\InfraStructure\ECommerce.Persistence\Data\types.json");
+                var TypeData = await File.ReadAllTextAsync(@"..\InfraStructure\ECommerce.Persistence\Data\types.json");
                 var Types = JsonSerializer.Deserialize<List<ProductType>>(TypeData);
 
                 if (Types != null && Types.Any())
@@ -51,7 +51,7 @@ namespace ECommerce.Persistence.Seed
 
             if (!context.Products.Any())
             {
-                var ProductsData = File.ReadAllText(@"..\InfraStructure\ECommerce.Persistence\Data\products.json");
+                var ProductsData = await File.ReadAllTextAsync(@"..\InfraStructure\ECommerce.Persistence\Data\products.json");
                 var products = JsonSerializer.Deserialize<List<Product>>(ProductsData);
 
                 if (products != null && products.Any())

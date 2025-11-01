@@ -1,7 +1,12 @@
 
+using ECommerce.Abstraction.IServices;
 using ECommerce.Domain.Contracts.Seed;
+using ECommerce.Domain.Contracts.UOW;
 using ECommerce.Persistence.Contexts;
 using ECommerce.Persistence.Seed;
+using ECommerce.Persistence.UOW;
+using ECommerce.Service.MappingProfiles;
+using ECommerce.Service.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace ECommerce
@@ -24,13 +29,16 @@ namespace ECommerce
             });
 
             builder.Services.AddScoped<IDataSeeding, DataSeeding>();
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            builder.Services.AddScoped<IServicesManger,ServicesManger>();
+            builder.Services.AddAutoMapper(m => m.AddProfile(new ProjectProfile(builder.Configuration)));
 
             var app = builder.Build();
 
             var Scope = app.Services.CreateScope();
             var ObjectSeeding = Scope.ServiceProvider.GetRequiredService<IDataSeeding>();
 
-            ObjectSeeding.DataSeed();
+            ObjectSeeding.DataSeedAsync();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -40,8 +48,7 @@ namespace ECommerce
 
             app.UseHttpsRedirection();
 
-            app.UseAuthorization();
-
+            app.UseStaticFiles();
 
             app.MapControllers();
 
