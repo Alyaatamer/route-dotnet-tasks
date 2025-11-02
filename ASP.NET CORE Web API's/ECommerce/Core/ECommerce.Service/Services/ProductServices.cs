@@ -2,6 +2,7 @@
 using ECommerce.Abstraction.IServices;
 using ECommerce.Domain.Contracts.UOW;
 using ECommerce.Domain.Models.Products;
+using ECommerce.Service.Specifications;
 using ECommerce.Shared.DTO_s;
 
 namespace ECommerce.Service.Services
@@ -18,9 +19,10 @@ namespace ECommerce.Service.Services
             return BrandDto;
         }
 
-        public async Task<IEnumerable<ProductDTO>> GetAllProductsAsync()
+        public async Task<IEnumerable<ProductDTO>> GetAllProductsAsync(int? BrandId, int? TypeId)
         {
-            var Products = await unitOfWork.GetRebosatory<Product, int>().GetAllAsync();
+            var Spec = new ProductSpecifications(BrandId, TypeId);
+            var Products = await unitOfWork.GetRebosatory<Product, int>().GetAllWithSpecificationsAsync(Spec);
             return mapper.Map<IEnumerable<Product>, IEnumerable<ProductDTO>>(Products);
         }
 
@@ -32,7 +34,8 @@ namespace ECommerce.Service.Services
 
         public async Task<ProductDTO> GetProductByIdAsync(int id)
         {
-            var Product = await unitOfWork.GetRebosatory<Product, int>().GetByIdAsync(id);
+            var Spec = new ProductSpecifications(id);
+            var Product = await unitOfWork.GetRebosatory<Product, int>().GetByIdWithSpecificationAsync(Spec);
             return mapper.Map<Product, ProductDTO>(Product);
         }
     }

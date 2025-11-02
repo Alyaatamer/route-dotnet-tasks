@@ -3,48 +3,44 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\mappingprofiles\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\mappingprofiles\\projectprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\services\\servicesmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\servicesmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97AAAF62-015E-4502-AD33-5A8E911567F9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.abstraction\\iservices\\iservicesmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97AAAF62-015E-4502-AD33-5A8E911567F9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\iservices\\iservicesmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|solutionrelative:infrastructure\\ecommerce.persentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persistence\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\specifications\\productspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\specifications\\productspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97AAAF62-015E-4502-AD33-5A8E911567F9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.abstraction\\iservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97AAAF62-015E-4502-AD33-5A8E911567F9}|Core\\ECommerce.Abstraction\\ECommerce.Abstraction.csproj|solutionrelative:core\\ecommerce.abstraction\\iservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.domain\\contracts\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\contracts\\uow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|solutionrelative:infrastructure\\ecommerce.persentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persistence\\repos\\genericreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\repos\\genericreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.domain\\contracts\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\contracts\\specifications\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\specifications\\basespecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.domain\\contracts\\repos\\igenericrebosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC3A0C32-AC1C-4C43-9083-E510A1B7E422}|Core\\ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:core\\ecommerce.domain\\contracts\\repos\\igenericrebosatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persistence\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84C59D30-3CA6-4872-8CD6-74EEFF96D715}|InfraStructure\\ECommerce.Persistence\\ECommerce.Persistence.csproj|solutionrelative:infrastructure\\ecommerce.persistence\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 374,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,142 +67,129 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PictureUrlResolver.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\MappingProfiles\\PictureUrlResolver.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\MappingProfiles\\PictureUrlResolver.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\MappingProfiles\\PictureUrlResolver.cs",
-              "RelativeToolTip": "Core\\ECommerce.Service\\MappingProfiles\\PictureUrlResolver.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBgAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T19:55:01.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerce\\appsettings.json",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\appsettings.json",
-              "RelativeToolTip": "ECommerce\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-01T18:41:31.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persentation\\Controllers\\ProductController.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "InfraStructure\\ECommerce.Persentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T17:02:47.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServicesManger.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\ServicesManger.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\ServicesManger.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\ServicesManger.cs",
-              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\ServicesManger.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T13:17:52.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IServicesManger.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Abstraction\\IServices\\IServicesManger.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\IServices\\IServicesManger.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Abstraction\\IServices\\IServicesManger.cs",
-              "RelativeToolTip": "Core\\ECommerce.Abstraction\\IServices\\IServicesManger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T13:16:53.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectProfile.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\MappingProfiles\\ProjectProfile.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\MappingProfiles\\ProjectProfile.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\MappingProfiles\\ProjectProfile.cs",
-              "RelativeToolTip": "Core\\ECommerce.Service\\MappingProfiles\\ProjectProfile.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBMAAABzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T11:21:14.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "IProductServices.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Abstraction\\IServices\\IProductServices.cs",
               "RelativeDocumentMoniker": "Core\\ECommerce.Abstraction\\IServices\\IProductServices.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Abstraction\\IServices\\IProductServices.cs",
               "RelativeToolTip": "Core\\ECommerce.Abstraction\\IServices\\IProductServices.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:55:33.636Z",
+              "WhenOpened": "2025-11-02T13:09:48.877Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\UOW\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persistence\\UOW\\UnitOfWork.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\UOW\\UnitOfWork.cs",
-              "RelativeToolTip": "InfraStructure\\ECommerce.Persistence\\UOW\\UnitOfWork.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBYAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persentation\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InfraStructure\\ECommerce.Persentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:26:11.799Z",
+              "WhenOpened": "2025-11-02T12:15:00.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Contracts\\UOW\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\UOW\\IUnitOfWork.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Contracts\\UOW\\IUnitOfWork.cs",
-              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\UOW\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABpAAAAAAAAAA==",
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persistence\\SpecificationEvaluator.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "InfraStructure\\ECommerce.Persistence\\SpecificationEvaluator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:20:01.681Z",
+              "WhenOpened": "2025-11-02T11:33:54.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
+              "Title": "IGenericRebosatory.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Contracts\\Repos\\IGenericRebosatory.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\Repos\\IGenericRebosatory.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Contracts\\Repos\\IGenericRebosatory.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\Repos\\IGenericRebosatory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:27:10.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\ProductServices.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\ProductServices.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\ProductServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:24:48.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductSpecifications.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Specifications\\ProductSpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Specifications\\ProductSpecifications.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Specifications\\ProductSpecifications.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Specifications\\ProductSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:59:27.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseSpecifications.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Specifications\\BaseSpecifications.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Specifications\\BaseSpecifications.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Specifications\\BaseSpecifications.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Specifications\\BaseSpecifications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T10:50:02.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Contracts\\Specifications\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Domain\\Contracts\\Specifications\\ISpecification.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Domain\\Contracts\\Specifications\\ISpecification.cs",
+              "RelativeToolTip": "Core\\ECommerce.Domain\\Contracts\\Specifications\\ISpecification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T22:01:11.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GenericReposatory.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\Repos\\GenericReposatory.cs",
               "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persistence\\Repos\\GenericReposatory.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persistence\\Repos\\GenericReposatory.cs",
               "RelativeToolTip": "InfraStructure\\ECommerce.Persistence\\Repos\\GenericReposatory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T16:55:26.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
               "RelativeDocumentMoniker": "ECommerce\\Program.cs",
               "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
               "RelativeToolTip": "ECommerce\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAApwCEAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T07:26:11.901Z",
               "EditorCaption": ""
