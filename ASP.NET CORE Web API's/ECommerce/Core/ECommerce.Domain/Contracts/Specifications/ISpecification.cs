@@ -8,6 +8,10 @@ namespace ECommerce.Domain.Contracts.Specfications
     {
         Expression<Func<TEntity, bool>> Criteria { get; } //where 
 
-        List<Expression<Func<TEntity,Object>>> Includes { get; } //Includes
+        List<Expression<Func<TEntity,Object>>> Includes { get; } 
+
+        Expression<Func<TEntity, Object>> OrderBy { get; } 
+
+        Expression<Func<TEntity, Object>> OrderByDesc { get; } 
     }
 }

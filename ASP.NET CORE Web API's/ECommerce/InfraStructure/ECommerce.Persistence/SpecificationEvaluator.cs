@@ -15,8 +15,17 @@ namespace ECommerce.Persistence
             {
                 query = query.Where(specification.Criteria);
             }
+            // Apply ordering
+            if (specification.OrderBy != null)
+            {
+                query = query.OrderBy(specification.OrderBy);
+            }
+            if (specification.OrderByDesc != null)
+            {
+                query = query.OrderByDescending(specification.OrderByDesc);
+            }
             // Apply includes
-            if(specification.Includes != null && specification.Includes.Any())
+            if (specification.Includes != null && specification.Includes.Any())
             {
                 query = specification.Includes.Aggregate(query, (CurrentQuery, Expression) => CurrentQuery.Include(Expression));
             }

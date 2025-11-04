@@ -1,4 +1,5 @@
 ﻿using ECommerce.Abstraction.IServices;
+using ECommerce.Shared.Common;
 using ECommerce.Shared.DTO_s;
 using Microsoft.AspNetCore.Mvc;
 
@@ -9,9 +10,9 @@ namespace ECommerce.Persentation.Controllers
     public class ProductController(IServicesManger servicesManger) : ControllerBase
     {
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<ProductDTO>>> GetAllProducts(int? BrandId , int? TypeId)
+        public async Task<ActionResult<IEnumerable<ProductDTO>>> GetAllProducts([FromQuery]ProductQueryParams productQuery)
         {
-            var Products = await servicesManger.ProductServices.GetAllProductsAsync(BrandId , TypeId);
+            var Products = await servicesManger.ProductServices.GetAllProductsAsync(productQuery);
             return Ok(Products);
         }
         [HttpGet("Brands")]
