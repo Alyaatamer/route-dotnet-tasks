@@ -4678,9 +4678,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\ECommerce.csproj",
-      "projectName": "ECommerce",
-      "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\ECommerce.csproj",
+      "projectUniqueName": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\ECommerce.Web.csproj",
+      "projectName": "ECommerce.Web",
+      "projectPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\ECommerce.Web.csproj",
       "packagesPath": "C:\\Users\\alyaa\\.nuget\\packages\\",
       "outputPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API's\\ECommerce\\ECommerce\\obj\\",
       "projectStyle": "PackageReference",

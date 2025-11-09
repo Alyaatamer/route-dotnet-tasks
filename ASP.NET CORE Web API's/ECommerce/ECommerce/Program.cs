@@ -1,6 +1,7 @@
 using ECommerce.Abstraction.IServices;
 using ECommerce.Domain.Contracts.Seed;
 using ECommerce.Domain.Contracts.UOW;
+using ECommerce.Middleware;
 using ECommerce.Persistence.Contexts;
 using ECommerce.Persistence.Seed;
 using ECommerce.Persistence.UOW;
@@ -38,6 +39,9 @@ namespace ECommerce
             var ObjectSeeding = Scope.ServiceProvider.GetRequiredService<IDataSeeding>();
 
             ObjectSeeding.DataSeedAsync();
+
+            app.UseMiddleware<CutomExceptionMiddleware>();
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())

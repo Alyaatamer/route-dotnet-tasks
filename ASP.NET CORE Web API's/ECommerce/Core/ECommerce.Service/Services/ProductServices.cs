@@ -20,11 +20,16 @@ namespace ECommerce.Service.Services
             return BrandDto;
         }
 
-        public async Task<IEnumerable<ProductDTO>> GetAllProductsAsync(ProductQueryParams productQuery)
+        public async Task<PaginationResult<ProductDTO>> GetAllProductsAsync(ProductQueryParams productQuery)
         {
             var Spec = new ProductSpecifications(productQuery);
             var Products = await unitOfWork.GetRebosatory<Product, int>().GetAllWithSpecificationsAsync(Spec);
-            return mapper.Map<IEnumerable<Product>, IEnumerable<ProductDTO>>(Products);
+            var Data = mapper.Map<IEnumerable<Product>, IEnumerable<ProductDTO>>(Products);
+            var Size = Data.Count();
+            var TotalSpec = new CountProductSpecifications(productQuery);
+            var TotalCount = await unitOfWork.GetRebosatory<Product, int>().GetCountWithSpecificationsAsync(TotalSpec);
+
+            return new PaginationResult<ProductDTO>(productQuery.PageIndex,Size, TotalCount, Data);
         }
 
         public async Task<IEnumerable<TypeDTO>> GetAllTypesAsync()

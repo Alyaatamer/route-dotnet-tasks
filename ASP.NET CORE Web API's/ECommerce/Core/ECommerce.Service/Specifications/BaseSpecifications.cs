@@ -36,7 +36,23 @@ namespace ECommerce.Service.Specifications
         protected void AddIncludes(Expression<Func<TEntity, object>> IncludeExperssion)
         {
             Includes.Add(IncludeExperssion);
-        } 
+        }
         #endregion
+
+        #region Pagination
+        public int Take { get; private set; }
+
+        public int Skip { get; private set; }
+
+        public bool IsPagingEnabled { get; set; }
+
+        protected void ApplyPagination(int PageIndex, int PageSize)
+        {
+            Skip = (PageIndex - 1) * PageSize;
+            Take = PageSize;
+            IsPagingEnabled = true;
+        }
+        #endregion
+
     }
 }

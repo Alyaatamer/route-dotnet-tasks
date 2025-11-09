@@ -12,5 +12,7 @@ namespace ECommerce.Domain.Contracts.Repos
        public void Delete(TEntity entity);
        public Task<IEnumerable<TEntity>> GetAllWithSpecificationsAsync(ISpecification<TEntity,TKey> specification);
        public Task<TEntity> GetByIdWithSpecificationAsync(ISpecification<TEntity, TKey> specification);
+       public Task<int> GetCountWithSpecificationsAsync(ISpecification<TEntity, TKey> specification);
+
     }
 }

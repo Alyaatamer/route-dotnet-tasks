@@ -12,6 +12,11 @@ namespace ECommerce.Domain.Contracts.Specfications
 
         Expression<Func<TEntity, Object>> OrderBy { get; } 
 
-        Expression<Func<TEntity, Object>> OrderByDesc { get; } 
+        Expression<Func<TEntity, Object>> OrderByDesc { get; }
+
+        int Take { get; }
+        int Skip { get; }
+        bool IsPagingEnabled { get; set; }
+
     }
 }

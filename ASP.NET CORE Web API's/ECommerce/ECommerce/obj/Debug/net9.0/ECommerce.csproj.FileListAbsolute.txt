@@ -50,7 +50,6 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ECommerce.props
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ECommerce.props
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets.pack.json
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\ECommerce.csproj.Up2Date
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\ECommerce.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\refint\ECommerce.dll
@@ -180,3 +179,4 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\AutoMapper.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.staticwebassets.runtime.json
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
