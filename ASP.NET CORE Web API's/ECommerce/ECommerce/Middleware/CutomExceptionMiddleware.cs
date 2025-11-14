@@ -1,4 +1,5 @@
-﻿using ECommerce.Shared.ErrorModels;
+﻿using ECommerce.Domain.Exceptions;
+using ECommerce.Shared.ErrorModels;
 
 namespace ECommerce.Middleware
 {
@@ -17,7 +18,19 @@ namespace ECommerce.Middleware
         {
             try
             {
-                await next(context);
+                await next.Invoke(context);
+
+                if(context.Response.StatusCode == StatusCodes.Status404NotFound)
+                {
+                    var response = new ErrorToReturn()
+                    {
+                        StatusCode = StatusCodes.Status404NotFound,
+                        Message = $"End Point {context.Request.Path} Not Found",
+                    };
+
+                    await context.Response.WriteAsJsonAsync(response);
+                }
+
             }
             catch (Exception e)
             {
@@ -25,7 +38,11 @@ namespace ECommerce.Middleware
 
                 #region Header Response
 
-                context.Response.StatusCode = StatusCodes.Status500InternalServerError;
+                context.Response.StatusCode = e switch
+                {
+                    NotFoundException => StatusCodes.Status404NotFound,
+                    _ => StatusCodes.Status500InternalServerError
+                };
                 context.Response.ContentType = "application/json";
 
                 #endregion

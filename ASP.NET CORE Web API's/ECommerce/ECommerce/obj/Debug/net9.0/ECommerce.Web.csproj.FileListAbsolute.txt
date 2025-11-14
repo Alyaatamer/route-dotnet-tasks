@@ -180,3 +180,5 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\ECommerce.Web.genruntimeconfig.cache
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\ref\ECommerce.Web.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\StackExchange.Redis.dll

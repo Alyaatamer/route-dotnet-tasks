@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce\\middleware\\cutomexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\middleware\\cutomexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2F08BEF-6643-4B20-899E-DF0AC4B104B5}|ECommerce.Shared\\ECommerce.Shared.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce.shared\\errormodels\\errortoreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2F08BEF-6643-4B20-899E-DF0AC4B104B5}|ECommerce.Shared\\ECommerce.Shared.csproj|solutionrelative:ecommerce.shared\\errormodels\\errortoreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|solutionrelative:infrastructure\\ecommerce.persentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,40 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CutomExceptionMiddleware.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Middleware\\CutomExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Middleware\\CutomExceptionMiddleware.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Middleware\\CutomExceptionMiddleware.cs*",
-              "RelativeToolTip": "ECommerce\\Middleware\\CutomExceptionMiddleware.cs*",
-              "ViewState": "AgIAABQAAAAAAAAAAAAYwCgAAABCAAAAAAAAAA==",
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persentation\\Controllers\\BasketController.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "InfraStructure\\ECommerce.Persentation\\Controllers\\BasketController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T20:57:43.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ErrorToReturn.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce.Shared\\ErrorModels\\ErrorToReturn.cs",
-              "RelativeDocumentMoniker": "ECommerce.Shared\\ErrorModels\\ErrorToReturn.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce.Shared\\ErrorModels\\ErrorToReturn.cs*",
-              "RelativeToolTip": "ECommerce.Shared\\ErrorModels\\ErrorToReturn.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T20:37:52.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
-              "RelativeToolTip": "ECommerce\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAwCoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T07:26:11.901Z",
+              "WhenOpened": "2025-11-14T18:00:29.729Z",
               "EditorCaption": ""
             }
           ]

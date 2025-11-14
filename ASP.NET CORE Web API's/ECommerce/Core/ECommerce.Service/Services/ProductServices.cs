@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using ECommerce.Abstraction.IServices;
 using ECommerce.Domain.Contracts.UOW;
+using ECommerce.Domain.Exceptions;
 using ECommerce.Domain.Models.Products;
 using ECommerce.Service.Specifications;
 using ECommerce.Shared.Common;
@@ -42,6 +43,12 @@ namespace ECommerce.Service.Services
         {
             var Spec = new ProductSpecifications(id);
             var Product = await unitOfWork.GetRebosatory<Product, int>().GetByIdWithSpecificationAsync(Spec);
+
+            if (Product is null)
+            {
+                throw new ProductNotFound(id);
+            }
+
             return mapper.Map<Product, ProductDTO>(Product);
         }
     }
