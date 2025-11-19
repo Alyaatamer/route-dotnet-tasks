@@ -1,6 +1,9 @@
 ﻿using ECommerce.Domain.Contracts.Seed;
 using ECommerce.Domain.Models.Products;
 using ECommerce.Persistence.Contexts;
+using ECommerce.Persistence.Identity.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -12,14 +15,8 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Persistence.Seed
 {
-    public class DataSeeding : IDataSeeding
+    public class DataSeeding(StoreDbContext context, UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager) : IDataSeeding
     {
-        private readonly StoredDbContext context;
-
-        public DataSeeding(StoredDbContext context)
-        {
-            this.context = context;
-        }
         public async Task DataSeedAsync()
         {
             if (context.Database.GetPendingMigrations().Any())
@@ -61,6 +58,48 @@ namespace ECommerce.Persistence.Seed
             }
 
             context.SaveChanges();
+        }
+
+        public async Task IdentitySeedAsync()
+        {
+            try
+            {
+                if (!roleManager.Roles.Any())
+                {
+                    await roleManager.CreateAsync(new IdentityRole("Admin"));
+                    await roleManager.CreateAsync(new IdentityRole("SuperAdmin"));
+                }
+
+                if (!userManager.Users.Any())
+                {
+                    var User1 = new ApplicationUser()
+                    {
+                        Email = "alyaa@gmail.com",
+                        DisplayName = "Alyaa",
+                        PhoneNumber = "01000000000",
+                        UserName = "AlyaaTamer"
+
+                    };
+                    var User2 = new ApplicationUser()
+                    {
+                        Email = "aly@gmail.com",
+                        DisplayName = "Aly",
+                        PhoneNumber = "01230000000",
+                        UserName = "AlyTamer"
+                    };
+                    await userManager.CreateAsync(User1, "P@ssw0rd");
+                    await userManager.CreateAsync(User2, "P@ssw0rd");
+
+                    await userManager.AddToRoleAsync(User1, "Admin");
+                    await userManager.AddToRoleAsync(User2, "SuperAdmin");
+                }
+
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+            
         }
     }
 }

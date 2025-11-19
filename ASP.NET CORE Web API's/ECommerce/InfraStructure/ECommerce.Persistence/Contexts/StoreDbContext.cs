@@ -9,16 +9,16 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Persistence.Contexts
 {
-    public class StoredDbContext : DbContext
+    public class StoreDbContext : DbContext
     {
 
-        public StoredDbContext(DbContextOptions<StoredDbContext> options): base(options) 
+        public StoreDbContext(DbContextOptions<StoreDbContext> options): base(options) 
         {
 
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfigurationsFromAssembly(typeof(StoredDbContext).Assembly);
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(StoreDbContext).Assembly);
         }
 
         public DbSet<Product> Products { get; set; } 

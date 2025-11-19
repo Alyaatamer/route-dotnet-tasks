@@ -4,15 +4,20 @@ using ECommerce.Domain.Contracts.Seed;
 using ECommerce.Domain.Contracts.UOW;
 using ECommerce.Middleware;
 using ECommerce.Persistence.Contexts;
+using ECommerce.Persistence.Identity.Models;
 using ECommerce.Persistence.Repos;
 using ECommerce.Persistence.Seed;
 using ECommerce.Persistence.UOW;
 using ECommerce.Service.MappingProfiles;
 using ECommerce.Service.Services;
 using ECommerce.Shared.ErrorModels;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using StackExchange.Redis;
+using System.Text;
 
 namespace ECommerce
 {
@@ -28,14 +33,32 @@ namespace ECommerce
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
 
-            builder.Services.AddDbContext<StoredDbContext>(options =>
+            #region Database
+            builder.Services.AddDbContext<StoreDbContext>(options =>
+                {
+                    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+                });
+            builder.Services.AddDbContext<StoredIdentityDbContext>(options =>
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+                options.UseSqlServer(builder.Configuration.GetConnectionString("IdentityConnection"));
+            });
+            builder.Services.AddSingleton<IConnectionMultiplexer>((_) =>
+            {
+                return ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("RedisConnection"));
             });
 
+            builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<StoredIdentityDbContext>();
+
+            #endregion
+
+            #region Bisness Services
             builder.Services.AddScoped<IDataSeeding, DataSeeding>();
             builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-            builder.Services.AddScoped<IServicesManger,ServicesManger>();
+            builder.Services.AddScoped<IServicesManger, ServicesManger>();
+            builder.Services.AddScoped<IBasketReposatory, BasketReposatory>();
+            #endregion
+
+
             builder.Services.AddAutoMapper(m => m.AddProfile(new ProjectProfile(builder.Configuration)));
 
             builder.Services.Configure<ApiBehaviorOptions>(options =>
@@ -57,11 +80,21 @@ namespace ECommerce
                 };
             });
 
-            builder.Services.AddScoped<IBasketReposatory, BasketReposatory>();
-
-            builder.Services.AddSingleton<IConnectionMultiplexer>((_) =>
+            builder.Services.AddAuthentication(Config =>
             {
-                return ConnectionMultiplexer.Connect(builder.Configuration.GetConnectionString("RedisConnection"));
+                Config.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                Config.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new TokenValidationParameters()
+                {
+                    ValidateIssuer = true,
+                    ValidIssuer = builder.Configuration.GetSection("JWTOptions")["Issuer"],
+                    ValidateAudience = true,
+                    ValidAudience = builder.Configuration.GetSection("JWTOptions")["Audience"],
+                    ValidateLifetime = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration.GetSection("JWTOptions")["SecurityKey"])),
+                };
             });
 
             var app = builder.Build();
@@ -70,6 +103,7 @@ namespace ECommerce
             var ObjectSeeding = Scope.ServiceProvider.GetRequiredService<IDataSeeding>();
 
             ObjectSeeding.DataSeedAsync();
+            ObjectSeeding.IdentitySeedAsync();
 
             app.UseMiddleware<CutomExceptionMiddleware>();
 
@@ -81,6 +115,9 @@ namespace ECommerce
             }
 
             app.UseHttpsRedirection();
+
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseStaticFiles();
 

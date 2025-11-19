@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\infrastructure\\ecommerce.persentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29567D3B-DF05-4DD0-ADB7-A9ACECFCB0FF}|InfraStructure\\ECommerce.Persentation\\ECommerce.Persentation.csproj|solutionrelative:infrastructure\\ecommerce.persentation\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C461FA2F-21AF-42D7-8D60-558C086EA768}|ECommerce\\ECommerce.Web.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|f:\\route-dotnet-tasks\\asp.net core web api\u0027s\\ecommerce\\core\\ecommerce.service\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085440CE-15BF-46F7-9458-C6860AA978F7}|Core\\ECommerce.Service\\ECommerce.Service.csproj|solutionrelative:core\\ecommerce.service\\services\\authenticationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 404,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,15 +34,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "InfraStructure\\ECommerce.Persentation\\Controllers\\BasketController.cs",
-              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\InfraStructure\\ECommerce.Persentation\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "InfraStructure\\ECommerce.Persentation\\Controllers\\BasketController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationServices.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\AuthenticationServices.cs",
+              "RelativeDocumentMoniker": "Core\\ECommerce.Service\\Services\\AuthenticationServices.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\Core\\ECommerce.Service\\Services\\AuthenticationServices.cs",
+              "RelativeToolTip": "Core\\ECommerce.Service\\Services\\AuthenticationServices.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T18:00:29.729Z",
+              "WhenOpened": "2025-11-19T14:43:24.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
+              "ToolTip": "F:\\route-dotnet-tasks\\ASP.NET CORE Web API\u0027s\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeToolTip": "ECommerce\\Program.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAD4v3cAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T13:27:26.135Z",
               "EditorCaption": ""
             }
           ]

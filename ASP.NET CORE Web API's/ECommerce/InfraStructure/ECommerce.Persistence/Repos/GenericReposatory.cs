@@ -6,7 +6,7 @@ using ECommerce.Domain.Contracts.Specfications;
 
 namespace ECommerce.Persistence.Repos
 {
-    public class GenericReposatory<TEntity, TKey>(StoredDbContext context) : IGenericRebosatory<TEntity, TKey> where TEntity : BaseEntity<TKey>
+    public class GenericReposatory<TEntity, TKey>(StoreDbContext context) : IGenericRebosatory<TEntity, TKey> where TEntity : BaseEntity<TKey>
     {
         public async Task<IEnumerable<TEntity>> GetAllAsync() => await context.Set<TEntity>().ToListAsync();
         public async Task<TEntity> GetByIdAsync(TKey id) => await context.Set<TEntity>().FindAsync(id);

@@ -35,30 +35,30 @@ namespace ECommerce.Middleware
             catch (Exception e)
             {
                 logger.LogError(e, e.Message);
-
-                #region Header Response
+                var response = new ErrorToReturn()
+                {
+                    Message = e.Message,
+                };
 
                 context.Response.StatusCode = e switch
                 {
                     NotFoundException => StatusCodes.Status404NotFound,
+                    UnAutherizedException => StatusCodes.Status401Unauthorized,
+                    BadRequestException badRequestException => GetBadRequestErrors(badRequestException,response),
                     _ => StatusCodes.Status500InternalServerError
                 };
+                response.StatusCode = context.Response.StatusCode;
+
                 context.Response.ContentType = "application/json";
-
-                #endregion
-
-                #region Response Body
-
-                var response = new ErrorToReturn()
-                {
-                    StatusCode = context.Response.StatusCode,
-                    Message = e.Message,
-                };
-
                 await context.Response.WriteAsJsonAsync(response);
 
-                #endregion
             }
+        }
+
+        private int GetBadRequestErrors(BadRequestException exception,ErrorToReturn response)
+        {
+            response.Errors = exception.Errors;
+            return StatusCodes.Status400BadRequest;
         }
     }
 }

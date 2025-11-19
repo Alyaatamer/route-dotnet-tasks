@@ -1,5 +1,6 @@
 ﻿using ECommerce.Abstraction.IServices;
 using ECommerce.Domain.Models.Baskets;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,7 @@ using System.Threading.Tasks;
 namespace ECommerce.Persentation.Controllers
 {
     [ApiController]
+    [Authorize]
     [Route("api/[controller]")]
     public class BasketController(IServicesManger services) : ControllerBase
     {

@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace ECommerce.Persistence.Migrations
 {
-    [DbContext(typeof(StoredDbContext))]
+    [DbContext(typeof(StoreDbContext))]
     [Migration("20251025073733_ProductModule")]
     partial class ProductModule
     {

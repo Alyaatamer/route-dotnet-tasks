@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Persistence.UOW
 {
-    public class UnitOfWork(StoredDbContext context) : IUnitOfWork
+    public class UnitOfWork(StoreDbContext context) : IUnitOfWork
     {
         private readonly Dictionary<string, object> _Repos = [];
         public IGenericRebosatory<TEntity, TKey> GetRebosatory<TEntity, TKey>() where TEntity : BaseEntity<TKey>

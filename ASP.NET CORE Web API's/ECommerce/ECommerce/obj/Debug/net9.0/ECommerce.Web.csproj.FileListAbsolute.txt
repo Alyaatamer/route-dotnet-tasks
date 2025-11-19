@@ -182,3 +182,9 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\StackExchange.Redis.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
