@@ -13,5 +13,6 @@ namespace ECommerce.Abstraction.IServices
         public IBasketServices BasketServices { get; }
 
         public IAuthenticationServices AuthenticationServices { get; }
+        public IOrderServices OrderServices { get; }
     }
 }
