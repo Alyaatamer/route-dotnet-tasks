@@ -24,6 +24,15 @@ namespace ECommerce.Service.Services
             var OrderAddress = mapper.Map<AddressDto,OrderAddress>(orderDto.Address);
             var Basket = await basket.GetBasketAsync(orderDto.BasketId) ?? throw new BasketNotFoundException(orderDto.BasketId);
 
+            ArgumentNullException.ThrowIfNullOrEmpty(Basket.PaymentIntentId);
+            var OrderRepo = unitOfWork.GetRebosatory<Order, Guid>();
+            var Spec = new OrderWithPaymentIntentIdSpecifications(Basket.PaymentIntentId);
+            var ExistingOrder = await OrderRepo.GetByIdWithSpecificationAsync(Spec);
+            if (ExistingOrder != null)
+            {
+                OrderRepo.Delete(ExistingOrder);
+            }
+
             List<OrderItem> OrderItems = [];
             var ProductRepo = unitOfWork.GetRebosatory<Product,int>();
 
@@ -49,7 +58,7 @@ namespace ECommerce.Service.Services
                 ?? throw new DeliveryMethodNotFoundException(orderDto.DeliveryMethodId);
 
             var Subtotal = OrderItems.Sum(item => item.Price * item.Quantity);
-            var Order = new Order(Email, OrderAddress, DeliveryMethod, OrderItems, Subtotal);
+            var Order = new Order(Email, OrderAddress, DeliveryMethod, OrderItems, Subtotal,Basket.PaymentIntentId);
 
             unitOfWork.GetRebosatory<Order, Guid>().Add(Order);
 

@@ -1,4 +1,5 @@
 ﻿using ECommerce.Abstraction.IServices;
+using ECommerce.Persentation.Attributes;
 using ECommerce.Shared.Common;
 using ECommerce.Shared.DTO_s;
 using Microsoft.AspNetCore.Authorization;
@@ -12,6 +13,7 @@ namespace ECommerce.Persentation.Controllers
     public class ProductController(IServicesManger servicesManger) : ControllerBase
     {
         [HttpGet]
+        [Cache]
         public async Task<ActionResult<PaginationResult<ProductDTO>>> GetAllProducts([FromQuery]ProductQueryParams productQuery)
         {
             var Products = await servicesManger.ProductServices.GetAllProductsAsync(productQuery);

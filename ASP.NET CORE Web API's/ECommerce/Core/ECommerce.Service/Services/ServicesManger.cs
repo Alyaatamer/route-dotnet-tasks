@@ -35,7 +35,10 @@ namespace ECommerce.Service.Services
 
         #region Order
         private readonly Lazy<IOrderServices> LazyOrderServices = new Lazy<IOrderServices>(() => new OrderServices(mapper, reposatory, unitOfWork));
-        public IOrderServices OrderServices => LazyOrderServices.Value; 
+        public IOrderServices OrderServices => LazyOrderServices.Value;
+
+        private readonly Lazy<IPaymentServices> LazyPaymentServices = new Lazy<IPaymentServices>(() => new PaymentServices(configuration, reposatory, unitOfWork,mapper));
+        public IPaymentServices PaymentServices => LazyPaymentServices.Value;
         #endregion
 
     }

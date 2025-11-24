@@ -10,13 +10,14 @@ namespace ECommerce.Domain.Models.Orders
     public class Order : BaseEntity<Guid>
     {
         public Order() { }
-        public Order(string userEmail, OrderAddress address, DeliveryMethod deliveryMethod, ICollection<OrderItem> items, decimal subtotal)
+        public Order(string userEmail, OrderAddress address, DeliveryMethod deliveryMethod, ICollection<OrderItem> items, decimal subtotal,string PaymentIntentId)
         {
             UserEmail = userEmail;
             Address = address;
             DeliveryMethod = deliveryMethod;
             Items = items;
             Subtotal = subtotal;
+            this.PaymentIntentId = PaymentIntentId;
         }
 
         public string UserEmail { get; set; } = null!;
@@ -30,6 +31,8 @@ namespace ECommerce.Domain.Models.Orders
         public ICollection<OrderItem> Items { get; set; } = [];
         public decimal Subtotal { get; set; }
         public decimal GetTotal() => Subtotal + DeliveryMethod.Price;
+
+        public string PaymentIntentId { get; set; } 
 
     }
 }

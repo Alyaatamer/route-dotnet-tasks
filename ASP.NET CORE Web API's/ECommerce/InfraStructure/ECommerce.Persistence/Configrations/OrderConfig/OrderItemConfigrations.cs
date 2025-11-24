@@ -16,7 +16,13 @@ namespace ECommerce.Persistence.Configrations.OrderConfig
             builder.ToTable("OrderItems");
             builder.Property(OI => OI.Price).HasColumnType("decimal(8,2)");
 
-            builder.OwnsOne(OI => OI.Product);
+            builder.OwnsOne(oi => oi.Product, p =>
+            {
+                p.Property(pp => pp.ProductId).HasColumnName("ProductId");
+                p.Property(pp => pp.ProductName).HasColumnName("ProductName");
+                p.Property(pp => pp.PictureUrl).HasColumnName("PictureUrl");
+            });
+
         }
     }
 }

@@ -47,7 +47,6 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.OpenApi.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Mono.TextTemplating.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.ClientModel.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.CodeDom.dll
@@ -57,15 +56,12 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Composition.Runtime.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Composition.TypedParts.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Drawing.Common.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Formats.Asn1.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Memory.Data.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Runtime.Caching.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Security.Permissions.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Text.Json.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\System.Windows.Extensions.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -137,12 +133,7 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Abstraction.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Domain.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\ECommerce.Persentation.dll
@@ -188,3 +179,5 @@ F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
 F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Newtonsoft.Json.dll
+F:\route-dotnet-tasks\ASP.NET CORE Web API's\ECommerce\ECommerce\bin\Debug\net9.0\Stripe.net.dll

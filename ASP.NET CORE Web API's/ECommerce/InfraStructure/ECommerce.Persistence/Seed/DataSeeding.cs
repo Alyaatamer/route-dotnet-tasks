@@ -1,4 +1,5 @@
 ﻿using ECommerce.Domain.Contracts.Seed;
+using ECommerce.Domain.Models.Orders;
 using ECommerce.Domain.Models.Products;
 using ECommerce.Persistence.Contexts;
 using ECommerce.Persistence.Identity.Models;
@@ -56,6 +57,15 @@ namespace ECommerce.Persistence.Seed
                     context.Products.AddRange(products);
                 }
             }
+
+            if (!context.Set<DeliveryMethod>().Any())
+            {
+                var data = await File.ReadAllTextAsync(@"..\InfraStructure\ECommerce.Persistence\Data\delivery.json");
+                var methods = JsonSerializer.Deserialize<List<DeliveryMethod>>(data);
+
+                context.Set<DeliveryMethod>().AddRange(methods);
+            }
+
 
             context.SaveChanges();
         }

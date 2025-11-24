@@ -1,5 +1,6 @@
 using ECommerce.Abstraction.IServices;
 using ECommerce.Domain.Contracts;
+using ECommerce.Domain.Contracts.Repos;
 using ECommerce.Domain.Contracts.Seed;
 using ECommerce.Domain.Contracts.UOW;
 using ECommerce.Middleware;
@@ -57,7 +58,8 @@ namespace ECommerce
             builder.Services.AddScoped<IServicesManger, ServicesManger>();
             builder.Services.AddScoped<IBasketReposatory, BasketReposatory>();
             #endregion
-
+            builder.Services.AddScoped<ICacheRepository, CacheRepository>();
+            builder.Services.AddScoped<ICacheServices,CacheServices>();
 
             builder.Services.AddAutoMapper(m => m.AddProfile(new ProjectProfile(builder.Configuration)));
 
